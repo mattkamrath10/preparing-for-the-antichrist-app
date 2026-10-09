@@ -1,15 +1,8 @@
-import slidesJson from "@/data/slides.json";
+import chaptersJson from "@/data/chapters.json";
 import guideJson from "@/data/guide.json";
-export type Slide = {
-  number: number; kicker: string; title: string;
-  subtitle?: string; description?: string; note?: string;
-  likelyArgument?: string; evidence?: string; logicBreaks?: string; crossExamination?: string;
-  comeback?: string; answer?: string; haveOpen?: string;
-  columns?: { label: string; items: string[] }[];
-  image: { src: string; alt: string; credit: string };
-};
-export const slides = slidesJson as Slide[];
-export const guide = guideJson as { explanations: Record<string, string>; glossary: { term: string; definition: string }[]; note: string };
 import topicsJson from "@/data/topics.json";
-export type Topic = { id: string; title: string; time: string; claimant: string; claim: string[]; counterpoints: string[]; names: string[]; relatedSlides: number[]; unclear: string[] };
+export type Chapter = { number: number; sourceSlide: number; title: string; claim: string; sources: string; keyFacts: string; plainLanguage: string; image: string; fallback: string; alt: string };
+export type Topic = { id: string; title: string; time: string; claimant: string; claim: string[]; counterpoints: string[]; names: string[]; relatedChapters: number[]; unclear: string[] };
+export const chapters = chaptersJson as Chapter[];
+export const guide = guideJson as { explanations: Record<string, string>; glossary: { term: string; definition: string; added?: string }[]; note: string };
 export const topics = topicsJson as Topic[];

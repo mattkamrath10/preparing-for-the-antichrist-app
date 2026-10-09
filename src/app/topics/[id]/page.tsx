@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { topics, slides } from "@/lib/data";
+import { topics, chapters } from "@/lib/data";
 export function generateStaticParams() { return topics.map((t) => ({ id: t.id })); }
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params; return { title: topics.find((t) => t.id === id)?.title ?? "Topic" };
@@ -19,11 +19,11 @@ export default async function TopicPage({ params }: { params: Promise<{ id: stri
           <div className="label mt-3">The claim</div>{t.claim.map((c) => <p key={c} className="mb-2">{c}</p>)}</section>
         <section className="card"><div className="label">Evidence and counterpoints</div>
           <ul className="list-disc pl-5 space-y-2">{t.counterpoints.map((c) => <li key={c}>{c}</li>)}</ul>
-          <p className="text-xs text-[#8a93a3] mt-3">Points citing a slide or the guide come from the debate prep materials. Others are general reasoning; check them yourself.</p></section>
+          <p className="text-xs text-[#8a93a3] mt-3">Points citing a chapter or the guide come from the source materials. Others are general reasoning; check them yourself.</p></section>
       </div>
       {t.names.length > 0 && <section className="card"><div className="label">Names mentioned</div><p>{t.names.join(" • ")}</p></section>}
       {t.unclear.length > 0 && <section className="card border-[#7a5c2e]"><div className="label">Unclear or not verified</div><ul className="list-disc pl-5 space-y-1">{t.unclear.map((u) => <li key={u}>{u}</li>)}</ul></section>}
-      <section className="card"><div className="label">Related slides</div><ul className="space-y-1">{t.relatedSlides.map((n) => <li key={n}><Link className="underline text-[#c9b27c]" href={`/slides/${n}/`}>Slide {n}: {slides[n - 1].title}</Link></li>)}</ul></section>
+      <section className="card"><div className="label">Related chapters</div><ul className="space-y-1">{t.relatedChapters.map((n) => <li key={n}><Link className="underline text-[#c9b27c]" href={`/chapters/${n}/`}>Chapter {n}: {chapters[n - 1].title}</Link></li>)}</ul></section>
       <div className="flex text-sm">{prev && <Link className="px-3 py-2 rounded border border-[#2c374a]" href={`/topics/${prev.id}/`}>← {prev.title}</Link>}{next && <Link className="px-3 py-2 rounded border border-[#2c374a] ml-auto" href={`/topics/${next.id}/`}>{next.title} →</Link>}</div>
     </article>
   );

@@ -15,11 +15,11 @@
   "names": [
    "Paul (the Apostle)"
   ],
-  "relatedSlides": [
-   9
-  ],
   "unclear": [
    "The transcript opens and closes mid-sentence (\"Barbecue and celebrate what?\" / \"over 1...\"); it appears to be a looped clip."
+  ],
+  "relatedChapters": [
+   8
   ]
  },
  {
@@ -31,17 +31,17 @@
    "The speaker says the Apostle Paul, \"a genuine Israelite,\" recognised that \"these people\" are hostile to all mankind, and claims they view non-Jews as \"useless goy cannon fodder.\""
   ],
   "counterpoints": [
-   "The speaker does not cite a specific verse. Paul described himself as a Jew and a Pharisee (deck slide 6), so treating him as a witness against Jews as a people is disputed.",
+   "The speaker does not cite a specific verse. Paul described himself as a Jew and a Pharisee (chapter 5), so treating him as a witness against Jews as a people is disputed.",
    "\"Goy\" (plural \"goyim\") is the Hebrew/Yiddish word for \"nation\" or \"non-Jew\"; the claim that it implies \"cannon fodder\" is the speaker's interpretation and no source is given."
   ],
   "names": [
    "Paul (the Apostle)"
   ],
-  "relatedSlides": [
-   6
-  ],
   "unclear": [
    "No Bible reference is given for the \"hostile to all mankind\" wording; it may refer to 1 Thessalonians 2:15, but the speaker does not say so."
+  ],
+  "relatedChapters": [
+   5
   ]
  },
  {
@@ -62,12 +62,12 @@
    "Esau",
    "Jacob"
   ],
-  "relatedSlides": [
-   4,
-   2
-  ],
   "unclear": [
    "The passage about Europeans and \"European descent\" (00:00:20) is garbled in the captions and its meaning is unclear."
+  ],
+  "relatedChapters": [
+   1,
+   3
   ]
  },
  {
@@ -80,9 +80,9 @@
    "He says Rome called them Jews but \"actual Israelites\" called them half-Jews, and that King Antigonus, when dethroned in favour of Herod, called Herod a half-Jew and unworthy of the throne, \"written in Josephus and other records.\""
   ],
   "counterpoints": [
-   "Josephus, the speaker's own source, says the Idumeans became Jews (guide, slide 5).",
+   "Josephus, the speaker's own source, says the Idumeans became Jews (chapter 4).",
    "Herod's father's family was Idumean (glossary); one king's background does not change the ancestry of millions (guide).",
-   "The phrase \"say they are Jews and are not\" is from Revelation, in letters to two churches, not a statement by Jesus about Herod (deck slide 7)."
+   "The phrase \"say they are Jews and are not\" is from Revelation, in letters to two churches, not a statement by Jesus about Herod (chapter 6)."
   ],
   "names": [
    "King Herod",
@@ -93,11 +93,11 @@
    "Hasmonean dynasty",
    "Maccabees"
   ],
-  "relatedSlides": [
-   5,
-   7
-  ],
-  "unclear": []
+  "unclear": [],
+  "relatedChapters": [
+   4,
+   6
+  ]
  },
  {
   "id": "sanhedrin-pharisees",
@@ -108,8 +108,8 @@
    "The speaker says Herod slaughtered the Sanhedrin and replaced it with a heavily Edomite one, and that many Pharisees Jesus confronted were Edomites, not Jews."
   ],
   "counterpoints": [
-   "The deck's cross-examination asks what ancient source says the Sanhedrin was refilled with Edomites (slide 5); the speaker gives none.",
-   "Paul called himself a Pharisee (slide 6), which conflicts with the idea that Pharisees were a non-Jewish group."
+   "No ancient source is given for the claim that the Sanhedrin was refilled with Edomites (see chapter 4).",
+   "Paul called himself a Pharisee (chapter 5), which conflicts with the idea that Pharisees were a non-Jewish group."
   ],
   "names": [
    "King Herod",
@@ -117,12 +117,12 @@
    "Pharisees",
    "Sanhedrin"
   ],
-  "relatedSlides": [
-   5,
-   6
-  ],
   "unclear": [
    "No source is named for the claim that the replacement Sanhedrin was \"heavily Edomite\"."
+  ],
+  "relatedChapters": [
+   4,
+   5
   ]
  },
  {
@@ -134,17 +134,17 @@
    "The speaker says \"Iscariot\" means \"man of Kerioth,\" that Kerioth was in northern Edom/southern Judah, that Judas was therefore an Edomite, and that every other disciple came from Galilee."
   ],
   "counterpoints": [
-   "The guide says the Bible lists Kerioth as a town in Judah, not Edom (slide 6).",
+   "The guide says the Bible lists Kerioth as a town in Judah, not Edom (chapter 5).",
    "The \"man of Kerioth\" reading is one scholarly explanation of \"Iscariot\"; others exist. Even on that reading, it names a town, not an ancestry.",
    "The deck does not address the claim that all other disciples came from Galilee; it is not verified here."
   ],
   "names": [
    "Judas Iscariot"
   ],
-  "relatedSlides": [
-   6
-  ],
-  "unclear": []
+  "unclear": [],
+  "relatedChapters": [
+   5
+  ]
  },
  {
   "id": "esau-hated",
@@ -155,19 +155,19 @@
    "The speaker quotes \"Jacob have I loved, Esau have I hated\" and says Esau's descendants were heavily involved in the crucifixion of Jesus."
   ],
   "counterpoints": [
-   "The guide says the verse concerns the ancient nation of Edom (slide 4).",
-   "The guide notes major churches today reject blaming Jews as a group for Jesus' death (slide 7)."
+   "The guide says the verse concerns the ancient nation of Edom (chapter 3).",
+   "The guide notes major churches today reject blaming Jews as a group for Jesus' death (chapter 6)."
   ],
   "names": [
    "Jacob",
    "Esau",
    "Jesus"
   ],
-  "relatedSlides": [
-   4,
-   7
-  ],
-  "unclear": []
+  "unclear": [],
+  "relatedChapters": [
+   3,
+   6
+  ]
  },
  {
   "id": "deception-gaza",
@@ -179,19 +179,19 @@
    "Later he says groups watched and cheered from hillsides as Gaza was bombed, having \"a little barbecue,\" and contrasts this with the verse that God takes no pleasure in the death of the wicked."
   ],
   "counterpoints": [
-   "The deck separates two questions: criticising the Israeli government is fair and many people, including many Jews, do so; blaming all Jewish people for a government's actions is antisemitism (slide 20).",
+   "The deck separates two questions: criticising the Israeli government is fair and many people, including many Jews, do so; blaming all Jewish people for a government's actions is antisemitism (chapter 19).",
    "Whether the Gaza war meets the legal definition of genocide is contested and is under international legal review; the deck does not settle it.",
    "The hillside spectators are an allegation about specific individuals; even if accurate, their conduct belongs to them, not to a whole people."
   ],
   "names": [
    "Jesus"
   ],
-  "relatedSlides": [
-   20,
-   7
-  ],
   "unclear": [
    "No source is given for the hillside \"barbecue\" account."
+  ],
+  "relatedChapters": [
+   6,
+   19
   ]
  },
  {
@@ -204,17 +204,17 @@
   ],
   "counterpoints": [
    "Epstein was a convicted sex offender (guide).",
-   "The guide says that in 2025 the U.S. Justice Department said it found no evidence of a blackmail scheme (slide 21).",
+   "The guide says that in 2025 the U.S. Justice Department said it found no evidence of a blackmail scheme (chapter 20).",
    "Crimes belong to the people who commit them, not to a religion (guide)."
   ],
   "names": [
    "Jeffrey Epstein",
    "Mossad"
   ],
-  "relatedSlides": [
-   21
-  ],
-  "unclear": []
+  "unclear": [],
+  "relatedChapters": [
+   20
+  ]
  },
  {
   "id": "churchill",
@@ -225,18 +225,18 @@
    "The speaker says Churchill was strongly anti-Zionist until Jewish bankers bailed him out of debt, after which he reversed course, and compares this to Donald Trump."
   ],
   "counterpoints": [
-   "The guide says a financier did pay Churchill's stock losses in 1938, but Churchill had supported a Jewish homeland since around 1908, about 30 years earlier (slide 14).",
+   "The guide says a financier did pay Churchill's stock losses in 1938, but Churchill had supported a Jewish homeland since around 1908, about 30 years earlier (chapter 13).",
    "The comparison to Trump is asserted without any evidence offered."
   ],
   "names": [
    "Winston Churchill",
    "Donald Trump"
   ],
-  "relatedSlides": [
-   14
-  ],
   "unclear": [
    "The transcript does not say what about Trump is being compared."
+  ],
+  "relatedChapters": [
+   13
   ]
  },
  {
@@ -249,22 +249,22 @@
    "He argues Christians should not \"help\" prophecy along, comparing this to helping Judas betray Jesus, and criticises \"Zionist Christians\" for \"serving Israel instead of Jesus Christ.\""
   ],
   "counterpoints": [
-   "The deck notes prophecy-based arguments cannot be checked or disproved (slide 23).",
-   "Plans to rebuild a Temple are held by some religious groups, not by Jews as a whole; the deck treats \"Greater Israel\" statements by individuals as not being a plan by all Jews (slide 15).",
+   "The deck notes prophecy-based arguments cannot be checked or disproved (chapter 22).",
+   "Plans to rebuild a Temple are held by some religious groups, not by Jews as a whole; the deck treats \"Greater Israel\" statements by individuals as not being a plan by all Jews (chapter 14).",
    "No source is given for the meeting \"later this year.\"",
-   "Christian support for Israel came largely from Christian preachers reading their own Bibles (slide 11); people may disagree with it on theological grounds."
+   "Christian support for Israel came largely from Christian preachers reading their own Bibles (chapter 10); people may disagree with it on theological grounds."
   ],
   "names": [
    "Judas Iscariot",
    "Jesus"
   ],
-  "relatedSlides": [
-   15,
-   23,
-   11
-  ],
   "unclear": [
    "\"They're meeting on those later this year\" does not say who is meeting or where."
+  ],
+  "relatedChapters": [
+   10,
+   14,
+   22
   ]
  },
  {
@@ -276,15 +276,15 @@
    "The speaker tells viewers to look at the owners and CEOs of pornography, music, media and news companies, says Jews hold \"strategic positions\" in order to control people, and calls this a \"cosmic war\" led by the \"synagogue of Satan.\" He also says \"a rabbi owns\" a company whose name is censored in the captions."
   ],
   "counterpoints": [
-   "The guide says some executives are Jewish and most are not, and that companies are owned by shareholders who compete with each other (slide 19).",
-   "The idea of secret Jewish control traces to the Protocols of the Elders of Zion, exposed as a forgery in 1921 (slide 19)."
+   "The guide says some executives are Jewish and most are not, and that companies are owned by shareholders who compete with each other (chapter 18).",
+   "The idea of secret Jewish control traces to the Protocols of the Elders of Zion, exposed as a forgery in 1921 (chapter 18)."
   ],
   "names": [],
-  "relatedSlides": [
-   19
-  ],
   "unclear": [
    "The company names at 00:03:41 and 00:05:00 are starred out in the captions, so these claims cannot be checked."
+  ],
+  "relatedChapters": [
+   18
   ]
  },
  {
@@ -296,7 +296,7 @@
    "The speaker says Jews held strategic positions in the Bolshevik Revolution and persuaded Russians to act, that at least 20 million and by some estimates up to 60 million died, mostly Christians, with thousands of Russian Orthodox martyrs, and that schools teach the Holocaust but not this."
   ],
   "counterpoints": [
-   "The guide says some early Communist leaders had Jewish parents but had rejected Judaism, and the Communist government later shut down synagogues (slide 13).",
+   "The guide says some early Communist leaders had Jewish parents but had rejected Judaism, and the Communist government later shut down synagogues (chapter 12).",
    "Stalin, who was not Jewish, led the worst killings, and tens of thousands of Jews were also murdered in that period (guide).",
    "The Nazis used the \"Jews are Communists\" story as propaganda (guide).",
    "Death toll estimates for the Soviet period vary widely depending on what is counted."
@@ -306,10 +306,10 @@
    "Russian Orthodox Church",
    "Joseph Stalin (named in the deck, not the transcript)"
   ],
-  "relatedSlides": [
-   13
-  ],
-  "unclear": []
+  "unclear": [],
+  "relatedChapters": [
+   12
+  ]
  },
  {
   "id": "maxwell-textbooks",
@@ -320,18 +320,18 @@
    "The speaker says students didn't learn this \"because Jews own the textbooks,\" says Robert Maxwell bought a publishing company for about $2 billion and partnered with a major U.S. printer, calls him \"provably\" a Mossad asset, and says he was assassinated on his yacht when he was about to turn on them."
   ],
   "counterpoints": [
-   "The guide says Maxwell did buy a publisher in 1988, but his company fell apart after he died in 1991, and today's textbooks are made by investor-owned companies, with states deciding the content (slide 16).",
+   "The guide says Maxwell did buy a publisher in 1988, but his company fell apart after he died in 1991, and today's textbooks are made by investor-owned companies, with states deciding the content (chapter 15).",
    "Maxwell's death at sea in 1991 has been the subject of speculation; the deck does not establish that he was assassinated or an intelligence asset, and the speaker gives no source."
   ],
   "names": [
    "Robert Maxwell",
    "Mossad"
   ],
-  "relatedSlides": [
-   16
-  ],
   "unclear": [
    "The printer partner is not named."
+  ],
+  "relatedChapters": [
+   15
   ]
  },
  {
@@ -343,18 +343,18 @@
    "The speaker says he doesn't care what the ADL says, claims the ADL \"rescued a Jew from doing evil and blamed a black man,\" and says 40% of Jewish households owned slaves in 1860."
   ],
   "counterpoints": [
-   "The deck identifies the ADL claim as referring to Leo Frank. The guide says Frank was lynched by a mob in 1915 and Georgia later pardoned him (slide 12).",
-   "The guide says most American Jews in 1860 lived in the North, where slavery was illegal, so the 40% figure can't be right, and Southern Jews owned slaves at about the same rate as their white neighbours (slide 12)."
+   "The deck identifies the ADL claim as referring to Leo Frank. The guide says Frank was lynched by a mob in 1915 and Georgia later pardoned him (chapter 11).",
+   "The guide says most American Jews in 1860 lived in the North, where slavery was illegal, so the 40% figure can't be right, and Southern Jews owned slaves at about the same rate as their white neighbours (chapter 11)."
   ],
   "names": [
    "Anti-Defamation League (ADL)",
    "Leo Frank (named in the deck, not the transcript)"
   ],
-  "relatedSlides": [
-   12
-  ],
   "unclear": [
    "The transcript does not name the man; the Leo Frank link comes from the deck."
+  ],
+  "relatedChapters": [
+   11
   ]
  },
  {
@@ -367,7 +367,7 @@
    "He says Kabbalah is kept secret and is \"even darker.\""
   ],
   "counterpoints": [
-   "The guide says the Talmud is thousands of pages of rabbinic legal debate recorded about 1,500 years ago; some lines sound harsh today, as in many ancient law books, but the speaker leaves out context and other passages, such as one forbidding fathers to marry off young daughters and one requiring Jews to help poor and sick non-Jews (slide 8).",
+   "The guide says the Talmud is thousands of pages of rabbinic legal debate recorded about 1,500 years ago; some lines sound harsh today, as in many ancient law books, but the speaker leaves out context and other passages, such as one forbidding fathers to marry off young daughters and one requiring Jews to help poor and sick non-Jews (chapter 7).",
    "The Talmud records arguments between rabbis, not a single rulebook (glossary), so a quoted line may be one opinion within a debate.",
    "Kabbalah texts are published and widely available; the speaker gives no example of what he says is secret."
   ],
@@ -375,11 +375,11 @@
    "Talmud",
    "Kabbalah"
   ],
-  "relatedSlides": [
-   8
-  ],
   "unclear": [
    "Captions read \"Sanhedrin 504B\" (likely 54b), \"Nida 44 B\", \"Baba Mezia 114B\", \"a Voda 22B\", \"Avoda Zara 26B\". The tractate references are transcribed as heard and were not checked against the text."
+  ],
+  "relatedChapters": [
+   7
   ]
  },
  {
@@ -393,17 +393,17 @@
   "counterpoints": [
    "The speaker gives no curriculum or source for these claims.",
    "Teaching about one historical atrocity does not prevent teaching about others; whether a given school covers Soviet history is a curriculum question, not evidence of control.",
-   "The deck says states decide what goes in school textbooks (slide 16)."
+   "The deck says states decide what goes in school textbooks (chapter 15)."
   ],
   "names": [
    "Holocaust"
   ],
-  "relatedSlides": [
-   16,
-   13
-  ],
   "unclear": [
    "No school, curriculum or source is identified."
+  ],
+  "relatedChapters": [
+   12,
+   15
   ]
  },
  {
@@ -417,15 +417,15 @@
   ],
   "counterpoints": [
    "Judaism and Christianity both trace their worship to the God of the Hebrew Bible; the theological differences are a matter of religious belief, not evidence.",
-   "The guide says Freemasonry began in England in 1717, isn't Jewish, and that Christian support for Israel grew from Christian preachers in the 1800s (slide 11)."
+   "The guide says Freemasonry began in England in 1717, isn't Jewish, and that Christian support for Israel grew from Christian preachers in the 1800s (chapter 10)."
   ],
   "names": [
    "Freemasons"
   ],
-  "relatedSlides": [
-   11
-  ],
-  "unclear": []
+  "unclear": [],
+  "relatedChapters": [
+   10
+  ]
  },
  {
   "id": "birthright-dna",
@@ -436,18 +436,18 @@
    "The speaker says Jews are false converts descended from Esau who want the \"birthright\" back, and that their own geneticists can't prove they are Israelites. He quotes a \"Doctor Carreki\" as saying \"we don't have DNA from the Israelites of the Bible,\" and argues Jews nevertheless claim a right to Zion."
   ],
   "counterpoints": [
-   "Not having ancient Israelite DNA means genetics cannot directly confirm or rule out descent; it does not show Edomite descent either. The guide says no DNA test can label someone \"Edomite\" (slide 18).",
+   "Not having ancient Israelite DNA means genetics cannot directly confirm or rule out descent; it does not show Edomite descent either. The guide says no DNA test can label someone \"Edomite\" (chapter 17).",
    "The deck does not identify Dr. Carreki or verify the quotation."
   ],
   "names": [
    "Esau",
    "\"Doctor Carreki\" (unidentified)"
   ],
-  "relatedSlides": [
-   18
-  ],
   "unclear": [
    "The name \"Carreki\" is as written in the captions and could not be matched to a known geneticist; the quotation is unverified."
+  ],
+  "relatedChapters": [
+   17
   ]
  },
  {
@@ -460,7 +460,7 @@
   ],
   "counterpoints": [
    "The Hebrew Bible does criticise ancient Edom for its conduct when Jerusalem fell (the speaker cites Ezekiel). That concerns the ancient kingdom of Edom.",
-   "Linking it to people today depends on the Edomite-identity claim, which the deck says lacks evidence of continuity (slide 2)."
+   "Linking it to people today depends on the Edomite-identity claim, which the deck says lacks evidence of continuity (chapter 1)."
   ],
   "names": [
    "Jacob",
@@ -468,12 +468,12 @@
    "Babylon",
    "Ezekiel"
   ],
-  "relatedSlides": [
-   2,
-   4
-  ],
   "unclear": [
    "The exact Ezekiel passage is not cited; the text was not checked here."
+  ],
+  "relatedChapters": [
+   1,
+   3
   ]
  },
  {
@@ -485,18 +485,18 @@
    "The speaker says modern studies show Ashkenazi Jews are \"Canaanite-blooded\" like ancient Edomites, and quotes a Tel Aviv University review: \"most of today's Jewish and Arabic speaking populations share a strong genetic link to the ancient Canaanites.\""
   ],
   "counterpoints": [
-   "As the speaker's own quotation says, the link is shared with Arabic-speaking populations. The guide says the same ancestry appears in Lebanese, Jordanians and Palestinians, and that ancient Israelites themselves came largely from Canaanite peoples (slide 18).",
+   "As the speaker's own quotation says, the link is shared with Arabic-speaking populations. The guide says the same ancestry appears in Lebanese, Jordanians and Palestinians, and that ancient Israelites themselves came largely from Canaanite peoples (chapter 17).",
    "No DNA test can label someone \"Edomite\" (guide)."
   ],
   "names": [
    "Tel Aviv University",
    "Ashkenazi Jews"
   ],
-  "relatedSlides": [
-   18
-  ],
   "unclear": [
    "The review is not named precisely; the quote was not checked against the original."
+  ],
+  "relatedChapters": [
+   17
   ]
  },
  {
@@ -510,9 +510,9 @@
    "He says 8 of the 20 wealthiest families on earth (40%) are Jewish, though Jews are 0.2% of the world population."
   ],
   "counterpoints": [
-   "The guide says the Bible gives Jacob the same \"fatness of the earth\" blessing (slide 4).",
-   "The guide says \"Rothschild\" means \"red shield,\" from a sign on the family's house in Germany (slide 10).",
-   "The guide says the 2025 list of richest families doesn't support the 8-of-20 figure, and one wealthy family says nothing about millions of ordinary Jews (slide 10)."
+   "The guide says the Bible gives Jacob the same \"fatness of the earth\" blessing (chapter 3).",
+   "The guide says \"Rothschild\" means \"red shield,\" from a sign on the family's house in Germany (chapter 9).",
+   "The guide says the 2025 list of richest families doesn't support the 8-of-20 figure, and one wealthy family says nothing about millions of ordinary Jews (chapter 9)."
   ],
   "names": [
    "Esau",
@@ -520,12 +520,12 @@
    "Satan",
    "Rothschild family"
   ],
-  "relatedSlides": [
-   10,
-   4
-  ],
   "unclear": [
    "The \"0.2%\" figure is the speaker's; it was not checked here."
+  ],
+  "relatedChapters": [
+   3,
+   9
   ]
  },
  {
@@ -537,8 +537,8 @@
    "The speaker says the Epstein files show Epstein represented the Rothschild family as a whole, not one person, and that Ghislaine Maxwell, Epstein's partner, is Robert Maxwell's daughter. He says \"Epstein is who taught you in school.\""
   ],
   "counterpoints": [
-   "The guide confirms Ghislaine Maxwell was Epstein's partner and is Robert Maxwell's daughter (slide 21).",
-   "The guide says Epstein got money from one bank linked to one Rothschild family member, not the family as a whole (slide 21).",
+   "The guide confirms Ghislaine Maxwell was Epstein's partner and is Robert Maxwell's daughter (chapter 20).",
+   "The guide says Epstein got money from one bank linked to one Rothschild family member, not the family as a whole (chapter 20).",
    "\"Epstein is who taught you in school\" is asserted without explanation or evidence."
   ],
   "names": [
@@ -547,11 +547,11 @@
    "Ghislaine Maxwell",
    "Robert Maxwell"
   ],
-  "relatedSlides": [
-   21
-  ],
   "unclear": [
    "Captions spell her name \"Kiss Lane\"; this is taken to be Ghislaine Maxwell because the speaker calls her Robert Maxwell's daughter."
+  ],
+  "relatedChapters": [
+   20
   ]
  },
  {
@@ -563,17 +563,17 @@
    "The speaker says the Nickelodeon logo is shaped like Little St. James, Epstein's island."
   ],
   "counterpoints": [
-   "The guide says fact-checkers found it is simply the company's old 1980s logo brought back (slide 22)."
+   "The guide says fact-checkers found it is simply the company's old 1980s logo brought back (chapter 21)."
   ],
   "names": [
    "Nickelodeon",
    "Little St. James",
    "Jeffrey Epstein"
   ],
-  "relatedSlides": [
-   22
-  ],
-  "unclear": []
+  "unclear": [],
+  "relatedChapters": [
+   21
+  ]
  },
  {
   "id": "greater-israel",
@@ -585,7 +585,7 @@
    "He says some Muslim scholars have identified Israelis as Edomites, not the Jews of the Bible, and points to Gaza and Lebanon as evidence of border expansion and to weakened superpowers as evidence of the plan."
   ],
   "counterpoints": [
-   "The guide says one rabbi did describe very large borders in 1947, and Israel's current prime minister has spoken about \"Greater Israel\"; criticising a politician is fair, but that isn't a plan by all Jews (slide 15).",
+   "The guide says one rabbi did describe very large borders in 1947, and Israel's current prime minister has spoken about \"Greater Israel\"; criticising a politician is fair, but that isn't a plan by all Jews (chapter 14).",
    "Noahide laws are a religious teaching with no means of enforcement (guide).",
    "\"Pax Judaica\" is not defined or sourced by the speaker.",
    "The Muslim scholars are not named."
@@ -595,12 +595,12 @@
    "United Nations",
    "Muslim scholars (unnamed)"
   ],
-  "relatedSlides": [
-   15,
-   20
-  ],
   "unclear": [
    "\"Pax Judaica\" and the Muslim scholars are not sourced."
+  ],
+  "relatedChapters": [
+   14,
+   19
   ]
  },
  {
@@ -612,7 +612,7 @@
    "The speaker says Epstein commissioned a large \"9 by 9\" painting of the Massacre of the Innocents (Matthew 2:16) for his Zorro Ranch, and says this shows he praised King Herod, whom he calls an Edomite \"just like Jeffrey Epstein.\""
   ],
   "counterpoints": [
-   "The guide says Epstein bought a copy of a famous painting of Herod's soldiers killing babies, and that the painting is a well-known Christian artwork made as a warning against cruelty (slide 22).",
+   "The guide says Epstein bought a copy of a famous painting of Herod's soldiers killing babies, and that the painting is a well-known Christian artwork made as a warning against cruelty (chapter 21).",
    "Owning a painting of an event is not the same as praising it."
   ],
   "names": [
@@ -620,11 +620,11 @@
    "King Herod",
    "Zorro Ranch"
   ],
-  "relatedSlides": [
-   22
-  ],
   "unclear": [
    "The transcript says \"commissioned\"; the guide says \"bought a copy.\" The size was not checked."
+  ],
+  "relatedChapters": [
+   21
   ]
  },
  {
@@ -636,18 +636,18 @@
    "The speaker says FBI files released through a Freedom of Information Act request show Israeli men celebrating and documenting the destruction of the Twin Towers, and that they returned to Israel and admitted being Mossad agents."
   ],
   "counterpoints": [
-   "The guide confirms five Israeli men were seen filming and celebrating, and calls it ugly, but says the FBI found no evidence they knew of the attack in advance and they never admitted being spies (slide 17).",
+   "The guide confirms five Israeli men were seen filming and celebrating, and calls it ugly, but says the FBI found no evidence they knew of the attack in advance and they never admitted being spies (chapter 16).",
    "Five men do not represent 15 million Jewish people (guide)."
   ],
   "names": [
    "FBI",
    "Mossad"
   ],
-  "relatedSlides": [
-   17
-  ],
   "unclear": [
    "The transcript says they admitted being \"Mossad agents in Gaza\"; this wording is unclear."
+  ],
+  "relatedChapters": [
+   16
   ]
  }
 ]
