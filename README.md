@@ -1,25 +1,26 @@
 # Preparing For The Antichrist App
 
 A companion app for the debate-prep deck **"Answering the Edomite Myth: The opponent's case, reconstructed and stress-tested."**
-It presents the material as 23 neutral chapters (the claim, the sources cited, the key facts and a plain-language explanation), 27 transcript topics, a glossary, a chat at the end of every chapter and one main chat.
+It follows the opponent's video in order: an introduction, 20 chapters (where each theme is discussed in the transcript, what the speaker claims, key names, and evidence and counterpoints with general-reasoning and unverified flags), a closing page, a glossary, a chat at the end of every page and one main chat.
 
 > Antisemitic claims are presented for critical examination, not endorsement.
 
-Chapter text comes word-for-word from `deck.pptx` (slides 2-23 and 25) and `plain-language-guide.pdf` (see `src/data/`).
+Chapters follow the transcript (see `docs/NEW-CHAPTERS-DRAFT.md`). Evidence comes from `deck.pptx` and `plain-language-guide.pdf`. The intro and closing use deck slides 2, 3, 23 and 25 (see `src/data/`). Chat rooms: `main`, `chapter-0` (intro), `chapter-1`…`chapter-20`, and `chapter-21` (closing).
 
 ## Videos
-To add a YouTube video to a chapter, open `src/data/chapters.json`, find the chapter, and set `"video": {"url": "PASTE-LINK"}`. Any link works: `youtube.com/shorts/…` (shown as a tall 9:16 player), `youtube.com/watch?v=…`, `youtu.be/…`, or a bare video ID. Optional: `"start": "1:30"` to start partway in, or `"short": true` to force the tall player. Use `"video": null` for no video. Commit and push.
+To add a YouTube video, open `src/data/chapters.json` (or `pages.json` for the intro or closing), find the chapter, and set `"video": {"url": "PASTE-LINK"}`. Any link works: `youtube.com/shorts/…` (shown as a tall 9:16 player), `youtube.com/watch?v=…`, `youtu.be/…`, or a bare video ID. Optional: `"start": "1:30"` to start partway in, or `"short": true` to force the tall player. Use `"video": null` for no video. Commit and push.
 
 ## Images
-Save chapter images as `public/images/chapters/chapter-01.png` ... `chapter-23.png` and the main image as `public/images/hero.png` (16:9). Until a file exists the app shows the built-in illustration (`fallback-NN.svg`). Prompts are in `IMAGE-PROMPTS.md`. Commit and push to publish.
+Save chapter images as `public/images/chapters/chapter-01.png` … `chapter-20.png`, `intro.png` and `closing.png` and the main image as `public/images/hero.png` (16:9). Until a file exists the app shows the built-in illustration (`fallback-NN.svg`). Prompts are in `IMAGE-PROMPTS.md`. Commit and push to publish.
 
 ## What's inside
 | Page | Address |
 |---|---|
 | Home / chapter list | `/` |
-| Chapters (chat at the end of each) | `/chapters/1/` ... `/chapters/23/` |
+| Introduction | `/intro/` |
+| Chapters (chat at the end of each) | `/chapters/1/` ... `/chapters/20/` |
+| Closing | `/closing/` |
 | Main chat (all chapters) | `/chat/` |
-| Transcript topics | `/topics/` |
 | Glossary | `/glossary/` |
 | Community rules and terms | `/rules/` |
 
@@ -91,4 +92,4 @@ Open the live site in Chrome or Edge → click the install icon in the address b
 App Review note: the chat is user-generated content, so the app already has rules/terms acceptance, filtering, report, block and moderator hide. Give Apple a demo email in the review notes so they can sign in.
 
 ## Updating content
-Chapter text is in `src/data/chapters.json`, topics in `src/data/topics.json`, guide text in `src/data/guide.json`. Edit, then `git commit` and `git push`; Vercel redeploys automatically.
+Chapter text is in `src/data/chapters.json`, intro and closing in `src/data/pages.json`, guide text in `src/data/guide.json`. Edit, then `git commit` and `git push`; Vercel redeploys automatically.
