@@ -7,6 +7,9 @@ It presents the material as 23 neutral chapters (the claim, the sources cited, t
 
 Chapter text comes word-for-word from `deck.pptx` (slides 2-23 and 25) and `plain-language-guide.pdf` (see `src/data/`).
 
+## Videos
+To add a YouTube video to a chapter, open `src/data/chapters.json`, find the chapter, and set `"video": {"url": "PASTE-LINK"}`. Any link works: `youtube.com/shorts/…` (shown as a tall 9:16 player), `youtube.com/watch?v=…`, `youtu.be/…`, or a bare video ID. Optional: `"start": "1:30"` to start partway in, or `"short": true` to force the tall player. Use `"video": null` for no video. Commit and push.
+
 ## Images
 Save chapter images as `public/images/chapters/chapter-01.png` ... `chapter-23.png` and the main image as `public/images/hero.png` (16:9). Until a file exists the app shows the built-in illustration (`fallback-NN.svg`). Prompts are in `IMAGE-PROMPTS.md`. Commit and push to publish.
 

@@ -9,7 +9,10 @@
   "plainLanguage": "The speaker's main idea is that today's Jews aren't \"real\" Jews but \"Edomites,\" descendants of Esau. This lets him attack Jewish people while claiming he isn't antisemitic. The slide shows how he strings many separate topics together into one story, and suggests asking him to name a single Jewish community he would accept as real. If he can't, \"Edomite\" is just a new word for \"Jew.\"",
   "image": "/images/chapters/chapter-01.png",
   "fallback": "/images/chapters/fallback-01.svg",
-  "alt": "Illustration: linked chain"
+  "alt": "Illustration: linked chain",
+  "video": {
+   "url": "https://youtube.com/shorts/HCdFg5JEb2A"
+  }
  },
  {
   "number": 2,
@@ -21,7 +24,8 @@
   "plainLanguage": "The speaker often starts with something true, like a real Bible verse or a real news story, and then jumps to a big conclusion that doesn't follow from it. This slide teaches a four-step check: Is the source real? What does it actually say? Does his conclusion follow? Does it really apply to all Jews?",
   "image": "/images/chapters/chapter-02.png",
   "fallback": "/images/chapters/fallback-02.svg",
-  "alt": "Illustration: magnifying glass"
+  "alt": "Illustration: magnifying glass",
+  "video": null
  },
  {
   "number": 3,
@@ -33,7 +37,8 @@
   "plainLanguage": "The Bible says Edom will be \"small and greatly despised,\" and in one verse God says \"Esau have I hated.\" The speaker claims Jews are the most hated people, so they must be Edom. But these verses talk about the ancient nation of Edom, and they treat Edom and Israel as two different peoples. The Bible also gives Jacob (Israel) the same blessing of \"the fatness of the earth\" that the speaker says marks Esau.",
   "image": "/images/chapters/chapter-03.png",
   "fallback": "/images/chapters/fallback-03.svg",
-  "alt": "Illustration: two diverging paths"
+  "alt": "Illustration: two diverging paths",
+  "video": null
  },
  {
   "number": 4,
@@ -45,7 +50,8 @@
   "plainLanguage": "About 125 years before Jesus, a Jewish ruler made the Idumeans convert to Judaism. King Herod came from an Idumean family. The speaker says this means Jews from then on were secretly Edomites. But the historian Josephus, the speaker's own source, says the Idumeans simply became Jews. One king's family background doesn't change the ancestry of millions of people.",
   "image": "/images/chapters/chapter-04.png",
   "fallback": "/images/chapters/fallback-04.svg",
-  "alt": "Illustration: classical columns"
+  "alt": "Illustration: classical columns",
+  "video": null
  },
  {
   "number": 5,
@@ -57,7 +63,8 @@
   "plainLanguage": "The speaker says Judas, who betrayed Jesus, came from an Edomite town called Kerioth, and that many Pharisees were Edomites. The Bible lists Kerioth as a town in Judah, not Edom. The Apostle Paul, whom the speaker praises, called himself \"a Jew\" and \"a Pharisee.\" So Paul belonged to the very group the speaker attacks.",
   "image": "/images/chapters/chapter-05.png",
   "fallback": "/images/chapters/fallback-05.svg",
-  "alt": "Illustration: outline map"
+  "alt": "Illustration: outline map",
+  "video": null
  },
  {
   "number": 6,
@@ -69,7 +76,8 @@
   "plainLanguage": "The Book of Revelation mentions people \"who say they are Jews, and are not.\" The speaker says this means today's Jews. In the Bible, these words appear in letters to two small church communities in what is now Turkey, about 1,900 years ago. They aren't a description of a whole people for all time. Major churches today reject blaming Jews as a group for Jesus' death.",
   "image": "/images/chapters/chapter-06.png",
   "fallback": "/images/chapters/fallback-06.svg",
-  "alt": "Illustration: seven lamps"
+  "alt": "Illustration: seven lamps",
+  "video": null
  },
  {
   "number": 7,
@@ -81,7 +89,8 @@
   "plainLanguage": "The speaker reads short, shocking lines from the Talmud. The Talmud is thousands of pages of rabbis arguing about law, recorded about 1,500 years ago. Some lines do sound harsh today, as many ancient law books do. But the speaker leaves out the context and leaves out other passages, such as one forbidding fathers to marry off young daughters and one requiring Jews to help poor and sick non-Jews.",
   "image": "/images/chapters/chapter-07.png",
   "fallback": "/images/chapters/fallback-07.svg",
-  "alt": "Illustration: open book"
+  "alt": "Illustration: open book",
+  "video": null
  },
  {
   "number": 8,
@@ -93,7 +102,8 @@
   "plainLanguage": "The speaker says Jews were kicked out of more than 100 countries, so they must have deserved it. The real number is much smaller; viral lists count the same places many times. Expulsions often happened so rulers could take Jewish property or cancel debts. Being persecuted proves people were hated, not that they were guilty. Other groups, like Muslims in Spain and Protestants in France, were expelled too.",
   "image": "/images/chapters/chapter-08.png",
   "fallback": "/images/chapters/fallback-08.svg",
-  "alt": "Illustration: globe"
+  "alt": "Illustration: globe",
+  "video": null
  },
  {
   "number": 9,
@@ -105,7 +115,8 @@
   "plainLanguage": "The speaker says the banking family name \"Rothschild\" means \"Shield of Edom.\" It actually means \"red shield,\" from a sign on the family's house in Germany. He also says Jews make up 8 of the 20 richest families in the world; the 2025 list of richest families shows that isn't true. One wealthy family says nothing about millions of ordinary Jewish people.",
   "image": "/images/chapters/chapter-09.png",
   "fallback": "/images/chapters/fallback-09.svg",
-  "alt": "Illustration: red shield"
+  "alt": "Illustration: red shield",
+  "video": null
  },
  {
   "number": 10,
@@ -117,7 +128,8 @@
   "plainLanguage": "The speaker claims Freemasons secretly pushed churches to support Israel. Freemasonry is a social club that started in England in 1717 and isn't Jewish. Christian support for Israel grew from Christian preachers in the 1800s reading their own Bibles. People can disagree with that belief, but it came from Christians, not from a hidden Jewish plot.",
   "image": "/images/chapters/chapter-10.png",
   "fallback": "/images/chapters/fallback-10.svg",
-  "alt": "Illustration: compass"
+  "alt": "Illustration: compass",
+  "video": null
  },
  {
   "number": 11,
@@ -129,7 +141,8 @@
   "plainLanguage": "The speaker claims 40% of Jewish homes owned slaves in 1860. Most American Jews then lived in the North, where slavery was illegal, so that number can't be right; Southern Jews owned slaves at about the same rate as their white neighbors. He also says the ADL protected a guilty Jewish man, Leo Frank. In fact, Frank was lynched by a mob in 1915, and Georgia later pardoned him.",
   "image": "/images/chapters/chapter-11.png",
   "fallback": "/images/chapters/fallback-11.svg",
-  "alt": "Illustration: courthouse"
+  "alt": "Illustration: courthouse",
+  "video": null
  },
  {
   "number": 12,
@@ -141,7 +154,8 @@
   "plainLanguage": "The speaker blames Jews for the Russian Communist Revolution and its millions of deaths. Some early Communist leaders had Jewish parents, but they had rejected Judaism, and the Communist government later shut down synagogues. Stalin, who wasn't Jewish, led the worst killings. Tens of thousands of Jews were also murdered during that period. The Nazis used the \"Jews are Communists\" story as propaganda.",
   "image": "/images/chapters/chapter-12.png",
   "fallback": "/images/chapters/fallback-12.svg",
-  "alt": "Illustration: archive drawers"
+  "alt": "Illustration: archive drawers",
+  "video": null
  },
  {
   "number": 13,
@@ -153,7 +167,8 @@
   "plainLanguage": "The speaker says Winston Churchill opposed a Jewish homeland until Jewish bankers paid his debts. A financier did pay Churchill's stock losses in 1938, but Churchill had supported a Jewish homeland since around 1908, 30 years earlier. The payment can't explain a view he already held.",
   "image": "/images/chapters/chapter-13.png",
   "fallback": "/images/chapters/fallback-13.svg",
-  "alt": "Illustration: clock tower"
+  "alt": "Illustration: clock tower",
+  "video": null
  },
  {
   "number": 14,
@@ -165,7 +180,8 @@
   "plainLanguage": "The speaker says Jews secretly plan to take land from Egypt to Iraq and force everyone to follow Jewish \"Noahide laws.\" One rabbi did describe very large borders in 1947, and Israel's current prime minister has spoken about \"Greater Israel.\" It's fair to criticize a politician, but that isn't a plan by all Jews. Noahide laws are a religious teaching; nobody has a way to enforce them.",
   "image": "/images/chapters/chapter-14.png",
   "fallback": "/images/chapters/fallback-14.svg",
-  "alt": "Illustration: outline map"
+  "alt": "Illustration: outline map",
+  "video": null
  },
  {
   "number": 15,
@@ -177,7 +193,8 @@
   "plainLanguage": "The speaker says a Jewish businessman, Robert Maxwell, bought a big publisher, so \"Jews own the textbooks.\" Maxwell did buy a publisher in 1988, but his company fell apart after he died in 1991. Today's school textbooks are made by companies owned by investors, and states decide what goes in them.",
   "image": "/images/chapters/chapter-15.png",
   "fallback": "/images/chapters/fallback-15.svg",
-  "alt": "Illustration: row of textbooks"
+  "alt": "Illustration: row of textbooks",
+  "video": null
  },
  {
   "number": 16,
@@ -189,7 +206,8 @@
   "plainLanguage": "Five Israeli men were seen filming and celebrating as the Twin Towers burned on September 11, 2001. What they did was ugly. But the FBI found no evidence they knew about the attack ahead of time, and they never admitted being spies, as the speaker claims. Five men don't represent 15 million Jewish people.",
   "image": "/images/chapters/chapter-16.png",
   "fallback": "/images/chapters/fallback-16.svg",
-  "alt": "Illustration: two beams of light"
+  "alt": "Illustration: two beams of light",
+  "video": null
  },
  {
   "number": 17,
@@ -201,7 +219,8 @@
   "plainLanguage": "The speaker says DNA studies prove Jews are Edomites because they share ancestry with the ancient Canaanites. But the same studies found that ancestry in Lebanese, Jordanians and Palestinians too. Ancient Israelites themselves came largely from Canaanite peoples. No DNA test can label someone \"Edomite.\"",
   "image": "/images/chapters/chapter-17.png",
   "fallback": "/images/chapters/fallback-17.svg",
-  "alt": "Illustration: dna double helix"
+  "alt": "Illustration: dna double helix",
+  "video": null
  },
  {
   "number": 18,
@@ -213,7 +232,8 @@
   "plainLanguage": "The speaker lists Jewish business leaders to suggest Jews secretly control the media. Some executives are Jewish and most are not; companies are owned by shareholders who compete with each other. This \"control\" idea comes from a famous fake document, the Protocols of the Elders of Zion, which was exposed as a forgery in 1921.",
   "image": "/images/chapters/chapter-18.png",
   "fallback": "/images/chapters/fallback-18.svg",
-  "alt": "Illustration: newspaper page"
+  "alt": "Illustration: newspaper page",
+  "video": null
  },
  {
   "number": 19,
@@ -225,7 +245,8 @@
   "plainLanguage": "The speaker uses the war in Gaza to say anyone who supports Jews supports killing. Criticizing the Israeli government is fair, and many people, including many Jews, do. But blaming all Jewish people everywhere for a government's actions is antisemitism. The slide helps you keep those two questions separate.",
   "image": "/images/chapters/chapter-19.png",
   "fallback": "/images/chapters/fallback-19.svg",
-  "alt": "Illustration: dove with olive branch"
+  "alt": "Illustration: dove with olive branch",
+  "video": null
  },
  {
   "number": 20,
@@ -237,7 +258,8 @@
   "plainLanguage": "Jeffrey Epstein was a convicted sex offender, and his partner Ghislaine Maxwell is Robert Maxwell's daughter. The speaker says Epstein worked for Israeli spies. In 2025 the U.S. Justice Department said it found no evidence of a blackmail scheme. Epstein did get money from one bank linked to one Rothschild family member. Crimes belong to the people who commit them, not to a whole religion.",
   "image": "/images/chapters/chapter-20.png",
   "fallback": "/images/chapters/fallback-20.svg",
-  "alt": "Illustration: balance scale"
+  "alt": "Illustration: balance scale",
+  "video": null
  },
  {
   "number": 21,
@@ -249,7 +271,8 @@
   "plainLanguage": "Epstein bought a copy of a famous painting showing King Herod's soldiers killing babies. The speaker says this shows Jewish evil. The painting is a well-known Christian artwork made as a warning against cruelty. He also says the Nickelodeon logo is shaped like Epstein's island; fact-checkers found it is simply the company's old 1980s logo brought back.",
   "image": "/images/chapters/chapter-21.png",
   "fallback": "/images/chapters/fallback-21.svg",
-  "alt": "Illustration: empty picture frame"
+  "alt": "Illustration: empty picture frame",
+  "video": null
  },
  {
   "number": 22,
@@ -261,7 +284,8 @@
   "plainLanguage": "This slide sums up the speaker's habits: calling Jews by a new name, linking unrelated facts, blaming millions for what a few did, and using prophecy that can never be checked. It also warns about the \"rapid fire\" trick: throwing out so many claims that no one can answer them all. The fix is to slow down and settle one claim at a time.",
   "image": "/images/chapters/chapter-22.png",
   "fallback": "/images/chapters/fallback-22.svg",
-  "alt": "Illustration: repeating pattern"
+  "alt": "Illustration: repeating pattern",
+  "video": null
  },
  {
   "number": 23,
@@ -273,6 +297,7 @@
   "plainLanguage": "The speaker isn't just criticizing one person or government. He is saying a whole people is secretly evil. The closing question asks: would he accept the same kind of reasoning if it were used to blame his own group? That fairness test shows the difference between evidence and prejudice.",
   "image": "/images/chapters/chapter-23.png",
   "fallback": "/images/chapters/fallback-23.svg",
-  "alt": "Illustration: balance scale"
+  "alt": "Illustration: balance scale",
+  "video": null
  }
 ]
