@@ -10,3 +10,6 @@ export type Slide = {
 };
 export const slides = slidesJson as Slide[];
 export const guide = guideJson as { explanations: Record<string, string>; glossary: { term: string; definition: string }[]; note: string };
+import topicsJson from "@/data/topics.json";
+export type Topic = { id: string; title: string; time: string; claimant: string; claim: string[]; counterpoints: string[]; names: string[]; relatedSlides: number[]; unclear: string[] };
+export const topics = topicsJson as Topic[];

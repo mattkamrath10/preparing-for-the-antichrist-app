@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { slides } from "@/lib/data";
+import { slides, topics } from "@/lib/data";
 export default function Home() {
   const cover = slides[0];
   return (
@@ -12,10 +12,12 @@ export default function Home() {
         <p className="mt-3 text-sm text-[#c9b27c]">{cover.note}</p>
         <div className="mt-4 flex gap-3 flex-wrap text-sm">
           <Link className="px-3 py-2 rounded bg-[#c9b27c] text-[#11161f] font-semibold" href="/slides/2/">Start at slide 2</Link>
+          <Link className="px-3 py-2 rounded border border-[#c9b27c]" href="/topics/">Transcript topics</Link>
           <Link className="px-3 py-2 rounded border border-[#c9b27c]" href="/practice/">Role-play practice</Link>
           <Link className="px-3 py-2 rounded border border-[#c9b27c]" href="/glossary/">Glossary</Link>
         </div>
       </section>
+      <section className="card mb-6"><div className="label">Transcript topics</div><p className="mb-2">{topics.length} subjects from the opponent&apos;s video, each with the claim and the counterpoints.</p><Link href="/topics/" className="underline text-[#c9b27c]">Browse transcript topics →</Link></section>
       <h2 className="label">All 26 slides</h2>
       <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {slides.map((s) => (

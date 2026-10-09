@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { slides, guide } from "@/lib/data";
+import { slides, guide, topics } from "@/lib/data";
 export function generateStaticParams() { return slides.map((s) => ({ n: String(s.number) })); }
 export async function generateMetadata({ params }: { params: Promise<{ n: string }> }) {
   const { n } = await params; const s = slides[Number(n) - 1];
@@ -48,6 +48,10 @@ export default async function SlidePage({ params }: { params: Promise<{ n: strin
         <div className="label">In plain language</div>
         <p>{guide.explanations[String(s.number)]}</p>
       </section>
+      {topics.some((t) => t.relatedSlides.includes(s.number)) && (
+        <section className="card mt-5"><div className="label">Related transcript topics</div>
+          <ul className="space-y-1">{topics.filter((t) => t.relatedSlides.includes(s.number)).map((t) => <li key={t.id}><Link className="underline text-[#c9b27c]" href={`/topics/${t.id}/`}>{t.title}</Link></li>)}</ul></section>
+      )}
       <div className="mt-5 flex flex-wrap gap-3 items-center text-sm">
         {prev && <Link className="px-3 py-2 rounded border border-[#2c374a]" href={`/slides/${prev}/`}>← Slide {prev}</Link>}
         <Link className="px-3 py-2 rounded bg-[#c9b27c] text-[#11161f] font-semibold" href={`/slides/${s.number}/chat/`}>Discuss this slide</Link>

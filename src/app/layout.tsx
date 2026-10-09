@@ -17,6 +17,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <nav className="max-w-6xl mx-auto px-4 py-3 flex flex-wrap gap-x-5 gap-y-2 items-center text-sm">
             <Link href="/" className="font-semibold text-[#e8d9b5] mr-auto">Preparing For The Antichrist</Link>
             <Link href="/">Deck</Link>
+            <Link href="/topics/">Transcript topics</Link>
             <Link href="/glossary/">Glossary</Link>
             <Link href="/practice/">Practice</Link>
             <Link href="/rules/">Community rules</Link>
