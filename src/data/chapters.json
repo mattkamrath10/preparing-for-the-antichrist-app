@@ -1,305 +1,621 @@
 [
-  {
-    "number": 1,
-    "sourceSlide": 2,
-    "title": "How the opponent builds the case",
-    "claim": "The speaker's central thesis is that modern Jews are not Israelites but Edomites/Idumeans, and that biblical language about Edom exposes a hidden identity.",
-    "sources": "He combines biblical verses, Josephus, wordplay, selected historical episodes, genetics, and modern scandals into one continuous story.",
-    "keyFacts": "A chain of individually checkable claims does not prove the links between them. Ask for evidence of continuity from ancient Edom to all modern Jewish communities.",
-    "plainLanguage": "The speaker's main idea is that today's Jews aren't \"real\" Jews but \"Edomites,\" descendants of Esau. This lets him attack Jewish people while claiming he isn't antisemitic. The slide shows how he strings many separate topics together into one story, and suggests asking him to name a single Jewish community he would accept as real. If he can't, \"Edomite\" is just a new word for \"Jew.\"",
-    "image": "/images/chapters/chapter-01.png",
-    "fallback": "/images/chapters/fallback-01.svg",
-    "alt": "Illustration: linked chain",
-    "video": {
-      "url": "https://youtube.com/shorts/HCdFg5JEb2A"
-    }
-  },
-  {
-    "number": 2,
-    "sourceSlide": 3,
-    "title": "The method: claim, source, leap",
-    "claim": "Expect the opponent to present a real quotation or event, attach a sweeping interpretation, then treat the interpretation as proven.",
-    "sources": "The supplied transcript repeatedly moves from one person or event to an entire people, and from prophetic language to modern political conclusions.",
-    "keyFacts": "Separate four things: whether the source is authentic, what it says in context, whether the interpretation follows, and whether the conclusion is generalizable.",
-    "plainLanguage": "The speaker often starts with something true, like a real Bible verse or a real news story, and then jumps to a big conclusion that doesn't follow from it. This slide teaches a four-step check: Is the source real? What does it actually say? Does his conclusion follow? Does it really apply to all Jews?",
-    "image": "/images/chapters/chapter-02.png",
-    "fallback": "/images/chapters/fallback-02.svg",
-    "alt": "Illustration: magnifying glass",
-    "video": null
-  },
-  {
-    "number": 3,
-    "sourceSlide": 4,
-    "title": "Jacob, Esau, and Edom",
-    "claim": "The opponent may argue that prophecies describing Edom as despised, plus Edom's hostility toward Judah, identify modern Jews as Edomites.",
-    "sources": "Genesis 25:23; Malachi 1:2–3; Obadiah; Psalm 137:7. These texts discuss biblical peoples and ancient conflicts.",
-    "keyFacts": "The texts distinguish Jacob/Israel from Esau/Edom; none identifies later Jewish communities as Edomites. Being persecuted cannot establish ancestry.",
-    "plainLanguage": "The Bible says Edom will be \"small and greatly despised,\" and in one verse God says \"Esau have I hated.\" The speaker claims Jews are the most hated people, so they must be Edom. But these verses talk about the ancient nation of Edom, and they treat Edom and Israel as two different peoples. The Bible also gives Jacob (Israel) the same blessing of \"the fatness of the earth\" that the speaker says marks Esau.",
-    "image": "/images/chapters/chapter-03.png",
-    "fallback": "/images/chapters/fallback-03.svg",
-    "alt": "Illustration: two diverging paths",
-    "video": {
-      "url": "https://youtube.com/shorts/AJkMQx4d85Y"
-    }
-  },
-  {
-    "number": 4,
-    "sourceSlide": 5,
-    "title": "Idumeans and Herod",
-    "claim": "The opponent may say John Hyrcanus converted Idumeans, Herod was Idumean, and therefore later Jewish institutions were secretly Edomite.",
-    "sources": "Josephus, Antiquities 13.257–258 and 14.403; Herod's Idumean family background; Antigonus's reported insult.",
-    "keyFacts": "Even if some Idumeans entered Judean society, that supports integration of a population—not replacement of all Jews. The claim about an Edomite-filled Sanhedrin needs a direct ancient source.",
-    "plainLanguage": "About 125 years before Jesus, a Jewish ruler made the Idumeans convert to Judaism. King Herod came from an Idumean family. The speaker says this means Jews from then on were secretly Edomites. But the historian Josephus, the speaker's own source, says the Idumeans simply became Jews. One king's family background doesn't change the ancestry of millions of people.",
-    "image": "/images/chapters/chapter-04.png",
-    "fallback": "/images/chapters/fallback-04.svg",
-    "alt": "Illustration: classical columns",
-    "video": null
-  },
-  {
-    "number": 5,
-    "sourceSlide": 6,
-    "title": "Pharisees, Judas, and Paul",
-    "claim": "The speaker may recast Jesus' opponents and Judas as Edomites, including a proposed Edomite meaning for 'Iscariot.'",
-    "sources": "Acts 22:3 and 23:6; Philippians 3:5; Joshua 15:25; debated etymologies of 'Iscariot.'",
-    "keyFacts": "The name's etymology is disputed; Kerioth is listed among Judah's towns. Paul identifies himself as Jewish and a Pharisee, complicating the speaker's ethnic sorting.",
-    "plainLanguage": "The speaker says Judas, who betrayed Jesus, came from an Edomite town called Kerioth, and that many Pharisees were Edomites. The Bible lists Kerioth as a town in Judah, not Edom. The Apostle Paul, whom the speaker praises, called himself \"a Jew\" and \"a Pharisee.\" So Paul belonged to the very group the speaker attacks.",
-    "image": "/images/chapters/chapter-05.png",
-    "fallback": "/images/chapters/fallback-05.svg",
-    "alt": "Illustration: outline map",
-    "video": null
-  },
-  {
-    "number": 6,
-    "sourceSlide": 7,
-    "title": "'Synagogue of Satan'",
-    "claim": "The opponent may claim Revelation's phrase 'who say they are Jews and are not' refers to modern Jews and proves collective spiritual guilt.",
-    "sources": "Revelation 2:9 and 3:9, addressed to specific early Christian congregations in Smyrna and Philadelphia.",
-    "keyFacts": "A local first-century polemic cannot simply be mapped onto every Jew across two millennia. The Roman state carried out crucifixion under Pontius Pilate.",
-    "plainLanguage": "The Book of Revelation mentions people \"who say they are Jews, and are not.\" The speaker says this means today's Jews. In the Bible, these words appear in letters to two small church communities in what is now Turkey, about 1,900 years ago. They aren't a description of a whole people for all time. Major churches today reject blaming Jews as a group for Jesus' death.",
-    "image": "/images/chapters/chapter-06.png",
-    "fallback": "/images/chapters/fallback-06.svg",
-    "alt": "Illustration: seven lamps",
-    "video": null
-  },
-  {
-    "number": 7,
-    "sourceSlide": 8,
-    "title": "Talmud quotations",
-    "claim": "Expect decontextualized quotations from Sanhedrin, Niddah, Bava Metzia, or Avodah Zarah to be presented as proof that Jews are taught to harm non-Jews.",
-    "sources": "The transcript repeats claims about child abuse, gentiles as animals, and refusing rescue; such quote lists circulated in older polemical literature.",
-    "keyFacts": "Demand the original language, surrounding discussion, legal status, and a reliable edition. A technical debate or one passage is not automatically contemporary Jewish practice or doctrine.",
-    "plainLanguage": "The speaker reads short, shocking lines from the Talmud. The Talmud is thousands of pages of rabbis arguing about law, recorded about 1,500 years ago. Some lines do sound harsh today, as many ancient law books do. But the speaker leaves out the context and leaves out other passages, such as one forbidding fathers to marry off young daughters and one requiring Jews to help poor and sick non-Jews.",
-    "image": "/images/chapters/chapter-07.png",
-    "fallback": "/images/chapters/fallback-07.svg",
-    "alt": "Illustration: open book",
-    "video": null
-  },
-  {
-    "number": 8,
-    "sourceSlide": 9,
-    "title": "'Expelled from over 100 countries'",
-    "claim": "The opponent may argue that repeated expulsions prove Jews must have deserved exclusion.",
-    "sources": "Well-known expulsions include England (1290), France (1306/1394), Spain (1492), and Portugal (1497); viral lists often count towns and territories repeatedly.",
-    "keyFacts": "A ruler's expulsion order is evidence of state action, not proof of collective guilt. Confiscation, religious coercion, scapegoating, and debt politics mattered.",
-    "plainLanguage": "The speaker says Jews were kicked out of more than 100 countries, so they must have deserved it. The real number is much smaller; viral lists count the same places many times. Expulsions often happened so rulers could take Jewish property or cancel debts. Being persecuted proves people were hated, not that they were guilty. Other groups, like Muslims in Spain and Protestants in France, were expelled too.",
-    "image": "/images/chapters/chapter-08.png",
-    "fallback": "/images/chapters/fallback-08.svg",
-    "alt": "Illustration: globe",
-    "video": null
-  },
-  {
-    "number": 9,
-    "sourceSlide": 10,
-    "title": "Rothschilds and 'Edom'",
-    "claim": "The opponent may claim 'Rothschild' means 'Shield of Edom' and use the family's wealth as proof of a biblical conspiracy.",
-    "sources": "The name is associated with the German house sign 'zum roten Schild' ('at the red shield'); the family became prominent in European finance.",
-    "keyFacts": "A pun between 'red' and 'Edom' is not an etymology. A wealthy family cannot represent an ethnic or religious population, and wealth rankings change by methodology.",
-    "plainLanguage": "The speaker says the banking family name \"Rothschild\" means \"Shield of Edom.\" It actually means \"red shield,\" from a sign on the family's house in Germany. He also says Jews make up 8 of the 20 richest families in the world; the 2025 list of richest families shows that isn't true. One wealthy family says nothing about millions of ordinary Jewish people.",
-    "image": "/images/chapters/chapter-09.png",
-    "fallback": "/images/chapters/fallback-09.svg",
-    "alt": "Illustration: red shield",
-    "video": null
-  },
-  {
-    "number": 10,
-    "sourceSlide": 11,
-    "title": "Freemasons and Christian Zionism",
-    "claim": "The opponent may portray Freemasons as Zionist infiltrators who captured churches and governments.",
-    "sources": "Freemasonry's London Grand Lodge dates to 1717; Christian Zionist theology developed through Christian interpreters including John Nelson Darby and the Scofield Reference Bible.",
-    "keyFacts": "The story asserts a coordinated secret plot without evidence and ignores Christian actors' own theological motives. Nazis persecuted Freemasons too.",
-    "plainLanguage": "The speaker claims Freemasons secretly pushed churches to support Israel. Freemasonry is a social club that started in England in 1717 and isn't Jewish. Christian support for Israel grew from Christian preachers in the 1800s reading their own Bibles. People can disagree with that belief, but it came from Christians, not from a hidden Jewish plot.",
-    "image": "/images/chapters/chapter-10.png",
-    "fallback": "/images/chapters/fallback-10.svg",
-    "alt": "Illustration: compass",
-    "video": null
-  },
-  {
-    "number": 11,
-    "sourceSlide": 12,
-    "title": "Slavery, Leo Frank, and the ADL",
-    "claim": "The speaker may allege disproportionate Jewish slave ownership and claim the ADL protected Leo Frank by framing a Black man.",
-    "sources": "The U.S. had a small Jewish population in 1860, most living in the North; some Southern Jews did own enslaved people. Leo Frank was lynched in 1915 after conviction.",
-    "keyFacts": "A universal percentage claim needs a traceable dataset and denominator. Frank's case involved a mob murder, contested evidence, and a 1986 pardon; it does not prove an ethnic conspiracy.",
-    "plainLanguage": "The speaker claims 40% of Jewish homes owned slaves in 1860. Most American Jews then lived in the North, where slavery was illegal, so that number can't be right; Southern Jews owned slaves at about the same rate as their white neighbors. He also says the ADL protected a guilty Jewish man, Leo Frank. In fact, Frank was lynched by a mob in 1915, and Georgia later pardoned him.",
-    "image": "/images/chapters/chapter-11.png",
-    "fallback": "/images/chapters/fallback-11.svg",
-    "alt": "Illustration: courthouse",
-    "video": null
-  },
-  {
-    "number": 12,
-    "sourceSlide": 13,
-    "title": "Bolshevism and 'Judeo-Bolshevism'",
-    "claim": "The opponent may point to revolutionary leaders of Jewish background and blame Jews collectively for communist violence.",
-    "sources": "Some Bolshevik figures had Jewish parents; the regime suppressed Jewish religious life, and Stalin—who was not Jewish—led the USSR through mass repression.",
-    "keyFacts": "An individual's ancestry is not proof of a group's responsibility. 'Judeo-Bolshevism' was a Nazi propaganda trope used to portray Jews as a collective enemy.",
-    "plainLanguage": "The speaker blames Jews for the Russian Communist Revolution and its millions of deaths. Some early Communist leaders had Jewish parents, but they had rejected Judaism, and the Communist government later shut down synagogues. Stalin, who wasn't Jewish, led the worst killings. Tens of thousands of Jews were also murdered during that period. The Nazis used the \"Jews are Communists\" story as propaganda.",
-    "image": "/images/chapters/chapter-12.png",
-    "fallback": "/images/chapters/fallback-12.svg",
-    "alt": "Illustration: archive drawers",
-    "video": null
-  },
-  {
-    "number": 13,
-    "sourceSlide": 14,
-    "title": "Churchill and the '180'",
-    "claim": "The opponent may suggest Churchill changed position on Zionism because Jewish financiers bailed him out.",
-    "sources": "Churchill expressed support for Zionism decades before financier Henry Strakosch covered losses in 1938.",
-    "keyFacts": "The chronology weakens the proposed cause. A financial transaction is not proof of political control without evidence of a quid pro quo.",
-    "plainLanguage": "The speaker says Winston Churchill opposed a Jewish homeland until Jewish bankers paid his debts. A financier did pay Churchill's stock losses in 1938, but Churchill had supported a Jewish homeland since around 1908, 30 years earlier. The payment can't explain a view he already held.",
-    "image": "/images/chapters/chapter-13.png",
-    "fallback": "/images/chapters/fallback-13.svg",
-    "alt": "Illustration: clock tower",
-    "video": null
-  },
-  {
-    "number": 14,
-    "sourceSlide": 15,
-    "title": "Greater Israel and Noahide laws",
-    "claim": "The speaker may connect a rabbi's maximal territorial statement, modern Israeli policy, Noahide laws, a Third Temple, and an Antichrist plot.",
-    "sources": "Rabbi Fishman's 1947 remarks; Israel returned Sinai under the Egypt–Israel peace treaty and withdrew settlements from Gaza in 2005; Netanyahu's 2025 'Greater Israel' remark is cited in the supplied deck.",
-    "keyFacts": "Distinguish one person's theology, a politician's rhetoric, state policy, and claims about Jews worldwide. Noahide laws are a religious concept, not evidence of an enforceable global scheme.",
-    "plainLanguage": "The speaker says Jews secretly plan to take land from Egypt to Iraq and force everyone to follow Jewish \"Noahide laws.\" One rabbi did describe very large borders in 1947, and Israel's current prime minister has spoken about \"Greater Israel.\" It's fair to criticize a politician, but that isn't a plan by all Jews. Noahide laws are a religious teaching; nobody has a way to enforce them.",
-    "image": "/images/chapters/chapter-14.png",
-    "fallback": "/images/chapters/fallback-14.svg",
-    "alt": "Illustration: outline map",
-    "video": null
-  },
-  {
-    "number": 15,
-    "sourceSlide": 16,
-    "title": "Robert Maxwell and textbooks",
-    "claim": "The opponent may argue that Maxwell's media acquisitions and alleged intelligence links prove Jews control school curricula.",
-    "sources": "Maxwell acquired Macmillan Inc. in 1988; allegations about intelligence links and his death have circulated, but allegations are not proof of murder or collective control.",
-    "keyFacts": "A publisher's acquisition is not ownership by all Jews. Textbook content is shaped by firms, authors, procurement systems, state boards, and competing institutions.",
-    "plainLanguage": "The speaker says a Jewish businessman, Robert Maxwell, bought a big publisher, so \"Jews own the textbooks.\" Maxwell did buy a publisher in 1988, but his company fell apart after he died in 1991. Today's school textbooks are made by companies owned by investors, and states decide what goes in them.",
-    "image": "/images/chapters/chapter-15.png",
-    "fallback": "/images/chapters/fallback-15.svg",
-    "alt": "Illustration: row of textbooks",
-    "video": null
-  },
-  {
-    "number": 16,
-    "sourceSlide": 17,
-    "title": "'Dancing Israelis' on 9/11",
-    "claim": "The speaker may cite five Israeli men detained after the attacks as proof Israel knew in advance or directed the attacks.",
-    "sources": "Five men were detained after reports of filming and celebrating; they were deported for visa violations. The supplied deck cites reporting that investigators found no evidence they knew in advance.",
-    "keyFacts": "Suspicious behavior can warrant investigation, but it is not proof of foreknowledge or a state's role. The claim must be supported by investigative findings, not insinuation.",
-    "plainLanguage": "Five Israeli men were seen filming and celebrating as the Twin Towers burned on September 11, 2001. What they did was ugly. But the FBI found no evidence they knew about the attack ahead of time, and they never admitted being spies, as the speaker claims. Five men don't represent 15 million Jewish people.",
-    "image": "/images/chapters/chapter-16.png",
-    "fallback": "/images/chapters/fallback-16.svg",
-    "alt": "Illustration: two beams of light",
-    "video": null
-  },
-  {
-    "number": 17,
-    "sourceSlide": 18,
-    "title": "Genetics and ancient identity",
-    "claim": "The opponent may argue that the absence of a DNA sample from biblical Israelites and evidence of ancient Levantine ancestry means Jews are Edomites.",
-    "sources": "Skorecki et al. (1997) and Agranat-Tamir et al. (2020) are cited; the latter identified shared ancestry patterns among multiple Levantine populations.",
-    "keyFacts": "No genetic test labels someone 'Edomite' or 'Israelite' from these data. Shared Levantine ancestry does not establish the speaker's specific lineage claim.",
-    "plainLanguage": "The speaker says DNA studies prove Jews are Edomites because they share ancestry with the ancient Canaanites. But the same studies found that ancestry in Lebanese, Jordanians and Palestinians too. Ancient Israelites themselves came largely from Canaanite peoples. No DNA test can label someone \"Edomite.\"",
-    "image": "/images/chapters/chapter-17.png",
-    "fallback": "/images/chapters/fallback-17.svg",
-    "alt": "Illustration: dna double helix",
-    "video": null
-  },
-  {
-    "number": 18,
-    "sourceSlide": 19,
-    "title": "Media, money, and power",
-    "claim": "The opponent may list Jewish executives in media, music, or adult entertainment and infer coordinated ethnic control.",
-    "sources": "The transcript invokes prominent names and broad claims about strategic positions; media firms have varied ownership structures and compete with one another.",
-    "keyFacts": "Selected examples do not establish population-level control or coordination. Claims about ethnic control echo conspiracy narratives such as the forged Protocols of the Elders of Zion.",
-    "plainLanguage": "The speaker lists Jewish business leaders to suggest Jews secretly control the media. Some executives are Jewish and most are not; companies are owned by shareholders who compete with each other. This \"control\" idea comes from a famous fake document, the Protocols of the Elders of Zion, which was exposed as a forgery in 1921.",
-    "image": "/images/chapters/chapter-18.png",
-    "fallback": "/images/chapters/fallback-18.svg",
-    "alt": "Illustration: newspaper page",
-    "video": null
-  },
-  {
-    "number": 19,
-    "sourceSlide": 20,
-    "title": "Gaza and collective responsibility",
-    "claim": "The speaker may use footage of Israelis cheering strikes and accusations of genocide to claim anyone supporting Israel supports extermination and is backing 'Satan's synagogue.'",
-    "sources": "Some Israelis have cheered military action; the legality of Israel's conduct and the genocide allegation involve specific evidence and ongoing legal proceedings.",
-    "keyFacts": "Criticizing Israeli government actions is legitimate. Collective blame against Jews—including Jews who oppose the war—is a different claim and does not follow from evidence about state conduct.",
-    "plainLanguage": "The speaker uses the war in Gaza to say anyone who supports Jews supports killing. Criticizing the Israeli government is fair, and many people, including many Jews, do. But blaming all Jewish people everywhere for a government's actions is antisemitism. The slide helps you keep those two questions separate.",
-    "image": "/images/chapters/chapter-19.png",
-    "fallback": "/images/chapters/fallback-19.svg",
-    "alt": "Illustration: dove with olive branch",
-    "video": null
-  },
-  {
-    "number": 20,
-    "sourceSlide": 21,
-    "title": "Epstein, Maxwell, and intelligence claims",
-    "claim": "The opponent may link Jeffrey Epstein, Ghislaine Maxwell, Robert Maxwell, the Rothschild name, and alleged Mossad blackmail into one conspiracy.",
-    "sources": "Ghislaine Maxwell was convicted of sex trafficking-related offenses; Epstein had powerful associates. The supplied deck cites a 2025 DOJ/FBI statement that it found no credible evidence of a client list or blackmail scheme.",
-    "keyFacts": "Proximity and association are not proof of intelligence tasking. Evidence about named individuals cannot establish guilt by Jewish identity or family name.",
-    "plainLanguage": "Jeffrey Epstein was a convicted sex offender, and his partner Ghislaine Maxwell is Robert Maxwell's daughter. The speaker says Epstein worked for Israeli spies. In 2025 the U.S. Justice Department said it found no evidence of a blackmail scheme. Epstein did get money from one bank linked to one Rothschild family member. Crimes belong to the people who commit them, not to a whole religion.",
-    "image": "/images/chapters/chapter-20.png",
-    "fallback": "/images/chapters/fallback-20.svg",
-    "alt": "Illustration: balance scale",
-    "video": null
-  },
-  {
-    "number": 21,
-    "sourceSlide": 22,
-    "title": "Herod painting and Nickelodeon logo",
-    "claim": "The opponent may interpret Epstein's copy of a painting depicting the Massacre of the Innocents as admiration for Herod, then treat a TV logo as a coded island symbol.",
-    "sources": "The painting copy was reportedly ordered in 2011; the museum described the irony of a work depicting cruelty in Epstein's home. The Nickelodeon-logo claim has been rated false by fact-checkers.",
-    "keyFacts": "A person's art collection does not prove ethnic allegiance. Visual resemblance is weak evidence without provenance, intent, or corroborating documents.",
-    "plainLanguage": "Epstein bought a copy of a famous painting showing King Herod's soldiers killing babies. The speaker says this shows Jewish evil. The painting is a well-known Christian artwork made as a warning against cruelty. He also says the Nickelodeon logo is shaped like Epstein's island; fact-checkers found it is simply the company's old 1980s logo brought back.",
-    "image": "/images/chapters/chapter-21.png",
-    "fallback": "/images/chapters/fallback-21.svg",
-    "alt": "Illustration: empty picture frame",
-    "video": null
-  },
-  {
-    "number": 22,
-    "sourceSlide": 23,
-    "title": "The recurring pattern",
-    "claim": "The opponent's narrative turns isolated facts into a unified hidden plot: redefine Jews as Edomites, quote scripture, cite scandal, and treat coincidence as confirmation.",
-    "sources": "The transcript repeatedly uses ancestry claims, wordplay, single-person examples, contested allegations, and prophetic predictions to bridge otherwise separate topics.",
-    "keyFacts": "Watch for unfalsifiable reasoning, shifting definitions, guilt by association, missing denominators, and a claim that every counterexample is part of the deception.",
-    "plainLanguage": "This slide sums up the speaker's habits: calling Jews by a new name, linking unrelated facts, blaming millions for what a few did, and using prophecy that can never be checked. It also warns about the \"rapid fire\" trick: throwing out so many claims that no one can answer them all. The fix is to slow down and settle one claim at a time.",
-    "image": "/images/chapters/chapter-22.png",
-    "fallback": "/images/chapters/fallback-22.svg",
-    "alt": "Illustration: repeating pattern",
-    "video": null
-  },
-  {
-    "number": 23,
-    "sourceSlide": 25,
-    "title": "Closing: separate evidence from prejudice",
-    "claim": "The ultimate claim is not merely that a government or individual acted wrongly; it is that an entire people has a hidden, inherited evil identity.",
-    "sources": "The supplied transcript moves from ancient texts and historical individuals to sweeping claims about Jews today, including claims of secret control and Satanic allegiance.",
-    "keyFacts": "A defensible conclusion must follow from evidence and apply consistent standards. No source presented here establishes that modern Jews collectively are Edomites or servants of Satan.",
-    "plainLanguage": "The speaker isn't just criticizing one person or government. He is saying a whole people is secretly evil. The closing question asks: would he accept the same kind of reasoning if it were used to blame his own group? That fairness test shows the difference between evidence and prejudice.",
-    "image": "/images/chapters/chapter-23.png",
-    "fallback": "/images/chapters/fallback-23.svg",
-    "alt": "Illustration: balance scale",
-    "video": null
+ {
+  "number": 1,
+  "title": "Expulsions and \"hostility to mankind\"",
+  "times": [
+   "00:03–00:31",
+   "13:40–13:51 (repeated at the loop end)"
+  ],
+  "summary": "The speaker claims Jews were expelled from over 100 countries over 2,000 years and suggests the expelling peoples had a reason. He claims the Apostle Paul, \"a genuine Israelite,\" recognised that \"these people\" are hostile to all mankind. He also claims they see non-Jews as \"useless goy cannon fodder.\"",
+  "names": [
+   "Paul (the Apostle)",
+   "\"goy\""
+  ],
+  "evidence": [
+   {
+    "text": "The real number of expulsions is much smaller; viral lists count the same places many times. Expulsions often let rulers take property or cancel debts, and other groups were expelled too. (deck slide 9; guide)",
+    "flag": null
+   },
+   {
+    "text": "Persecution shows a group was targeted, not that it was guilty. (Guide, slide 9)",
+    "flag": null
+   },
+   {
+    "text": "Paul called himself \"a Jew\" and \"a Pharisee.\" (deck slide 6; guide)",
+    "flag": null
+   },
+   {
+    "text": "\"Goy\" means \"nation\" or \"non-Jew\"; \"cannon fodder\" is the speaker's interpretation and he gives no source.",
+    "flag": "general reasoning; glossary entry added in the app"
+   },
+   {
+    "text": "No verse is cited for \"hostile to all mankind.\"",
+    "flag": "general reasoning"
+   }
+  ],
+  "image": "/images/chapters/chapter-01.png",
+  "fallback": "/images/chapters/fallback-08.svg",
+  "alt": "Illustration: globe",
+  "video": null
+ },
+ {
+  "number": 2,
+  "title": "Edom, Esau and Jacob: \"small and greatly despised\"",
+  "times": [
+   "00:20–00:41",
+   "02:00–02:10",
+   "08:20–08:51",
+   "13:40–13:51"
+  ],
+  "summary": "The speaker claims the Bible says Edom will always be \"small and greatly despised.\" He asks whether Europeans or Ashkenazi Jews fit that better and concludes that people who claim to be Jews are Edom, not Israelites. He cites \"Jacob have I loved, Esau have I hated,\" says Ezekiel describes Edom helping Babylon capture and plunder Jerusalem, and says the Jacob–Esau struggle that began in the womb continues today.",
+  "names": [
+   "Esau",
+   "Jacob",
+   "Ashkenazi Jews",
+   "Europeans",
+   "Ezekiel",
+   "Babylon"
+  ],
+  "evidence": [
+   {
+    "text": "These verses describe the ancient nation of Edom and treat Edom and Israel as two separate peoples. Edom disappeared as a nation about 2,000 years ago. (deck slide 4; guide and glossary)",
+    "flag": null
+   },
+   {
+    "text": "A chain of claims needs evidence of continuity from ancient Edom to modern Jewish communities. (deck slide 2)",
+    "flag": null
+   },
+   {
+    "text": "Being disliked is not a test of ancestry.",
+    "flag": "general reasoning"
+   },
+   {
+    "text": "The Ezekiel passage concerns the ancient kingdom; the exact verse was not cited or checked.",
+    "flag": "general reasoning"
+   },
+   {
+    "text": "The \"European descent\" remark at 00:20 is garbled in the captions.",
+    "flag": "unclear"
+   }
+  ],
+  "image": "/images/chapters/chapter-02.png",
+  "fallback": "/images/chapters/fallback-03.svg",
+  "alt": "Illustration: two diverging paths",
+  "video": {
+   "url": "https://youtube.com/shorts/AJkMQx4d85Y"
   }
+ },
+ {
+  "number": 3,
+  "title": "Herod, the Idumeans and the forced conversion",
+  "times": [
+   "00:41–01:42"
+  ],
+  "summary": "The speaker claims King Herod was an Edomite, and that the group \"who say they are Jews and are not\" were the Idumeans, forcibly converted by John Hyrcanus around 125 BC during the Hasmonean dynasty after the Maccabean revolt. He says Rome called them Jews while \"actual Israelites\" called them half-Jews. He also says the dethroned King Antigonus called Herod a half-Jew unworthy of the throne, citing Josephus \"and other records.\"",
+  "names": [
+   "King Herod",
+   "Jesus",
+   "John Hyrcanus",
+   "the Hasmoneans",
+   "the Maccabees",
+   "King Antigonus",
+   "Josephus",
+   "Rome"
+  ],
+  "evidence": [
+   {
+    "text": "Josephus, the speaker's own source, says the Idumeans became Jews. One king's family background doesn't change the ancestry of millions. (deck slide 5; guide)",
+    "flag": null
+   },
+   {
+    "text": "Herod's father's family was Idumean. (Glossary)",
+    "flag": null
+   },
+   {
+    "text": "\"Say they are Jews and are not\" comes from Revelation's letters to two churches, not from Jesus about Herod. (deck slide 7; guide)",
+    "flag": null
+   }
+  ],
+  "image": "/images/chapters/chapter-03.png",
+  "fallback": "/images/chapters/fallback-04.svg",
+  "alt": "Illustration: classical columns",
+  "video": null
+ },
+ {
+  "number": 4,
+  "title": "The Sanhedrin, the Pharisees and Judas",
+  "times": [
+   "01:32–02:10",
+   "12:11–12:31"
+  ],
+  "summary": "The speaker claims Herod slaughtered the Sanhedrin and replaced it with a heavily Edomite one, and that many Pharisees Jesus confronted were Edomites. He claims \"Iscariot\" means \"man of Kerioth,\" that Kerioth was in northern Edom/southern Judah, so Judas was an Edomite, and that every other disciple came from Galilee. Later he argues that just as no one should help Judas fulfil prophecy, no one should help \"the Edomites\" bring the Antichrist.",
+  "names": [
+   "King Herod",
+   "the Sanhedrin",
+   "the Pharisees",
+   "Jesus",
+   "Judas Iscariot",
+   "Galilee"
+  ],
+  "evidence": [
+   {
+    "text": "No ancient source is given for an Edomite-filled Sanhedrin. (deck slide 5)",
+    "flag": null
+   },
+   {
+    "text": "The Bible lists Kerioth as a town in Judah, not Edom, and Paul called himself a Pharisee. (deck slide 6; guide)",
+    "flag": null
+   },
+   {
+    "text": "\"Man of Kerioth\" is one explanation of \"Iscariot\"; even if correct, it names a town, not an ancestry.",
+    "flag": "general reasoning"
+   },
+   {
+    "text": "The claim that all other disciples came from Galilee was not checked.",
+    "flag": "unverified"
+   }
+  ],
+  "image": "/images/chapters/chapter-04.png",
+  "fallback": "/images/chapters/fallback-05.svg",
+  "alt": "Illustration: outline map",
+  "video": null
+ },
+ {
+  "number": 5,
+  "title": "The crucifixion, the \"great deception\" and the \"synagogue of Satan\"",
+  "times": [
+   "02:06–02:51",
+   "03:50–04:11",
+   "04:51–05:00",
+   "07:32–07:51"
+  ],
+  "summary": "The speaker claims Esau's descendants were heavily involved in the crucifixion of Jesus. He says the world is under a \"great deception\" that today's Jews are the biblical Israelites, warns \"woe to you who support the synagogue of Satan,\" and calls it a \"cosmic war\" led by \"those who say they are Jews and are not.\" He speaks of how deep \"the tentacles\" reach into people's lives.",
+  "names": [
+   "Jesus",
+   "Esau",
+   "Satan"
+  ],
+  "evidence": [
+   {
+    "text": "The phrase appears in letters to two small churches about 1,900 years ago and is not a description of a whole people for all time. Major churches today reject blaming Jews as a group for Jesus' death. (deck slide 7; guide)",
+    "flag": null
+   },
+   {
+    "text": "The Esau verses concern ancient Edom. (deck slide 4)",
+    "flag": null
+   }
+  ],
+  "image": "/images/chapters/chapter-05.png",
+  "fallback": "/images/chapters/fallback-06.svg",
+  "alt": "Illustration: seven lamps",
+  "video": null
+ },
+ {
+  "number": 6,
+  "title": "The war in Gaza",
+  "times": [
+   "02:22–02:51",
+   "11:50–12:11",
+   "13:20–13:40",
+   "00:00–00:11 (loop)"
+  ],
+  "summary": "The speaker claims the \"deception\" leads people to support \"genocide in Gaza.\" He cites Gaza and Lebanon as evidence of border expansion. He says groups watched and cheered from hillsides as Gaza was bombed, holding \"a little barbecue,\" and contrasts this with the verse that God takes no pleasure in the death of the wicked.",
+  "names": [
+   "Gaza",
+   "Lebanon"
+  ],
+  "evidence": [
+   {
+    "text": "Criticising the Israeli government is fair, and many people, including many Jews, do. Blaming all Jewish people for a government's actions is antisemitism. (deck slide 20; guide)",
+    "flag": null
+   },
+   {
+    "text": "Whether the war meets the legal definition of genocide is contested.",
+    "flag": "general reasoning"
+   },
+   {
+    "text": "No source is given for the hillside account; even if accurate, it concerns specific individuals.",
+    "flag": "general reasoning"
+   }
+  ],
+  "image": "/images/chapters/chapter-06.png",
+  "fallback": "/images/chapters/fallback-19.svg",
+  "alt": "Illustration: dove with olive branch",
+  "video": null
+ },
+ {
+  "number": 7,
+  "title": "Epstein as an alleged Mossad asset",
+  "times": [
+   "02:51–03:11"
+  ],
+  "summary": "The speaker claims Jeffrey Epstein was a Mossad asset who brought children to politicians, filmed abuse and used the videos to control them. He calls this \"parasite behavior\" learned from the devil.",
+  "names": [
+   "Jeffrey Epstein",
+   "Mossad"
+  ],
+  "evidence": [
+   {
+    "text": "Epstein was a convicted sex offender. In 2025 the U.S. Justice Department said it found no evidence of a blackmail scheme. Crimes belong to the people who commit them, not to a religion. (deck slide 21; guide)",
+    "flag": null
+   }
+  ],
+  "image": "/images/chapters/chapter-07.png",
+  "fallback": "/images/chapters/fallback-20.svg",
+  "alt": "Illustration: balance scale",
+  "video": null
+ },
+ {
+  "number": 8,
+  "title": "Churchill's debts and the \"180\"",
+  "times": [
+   "03:11–03:41"
+  ],
+  "summary": "The speaker claims \"money\" is another method of control. He says Winston Churchill was strongly anti-Zionist until \"major Jewish banking\" paid his debts, after which he reversed course, and compares this to Donald Trump.",
+  "names": [
+   "Winston Churchill",
+   "Donald Trump"
+  ],
+  "evidence": [
+   {
+    "text": "A financier did pay Churchill's stock losses in 1938, but Churchill had supported a Jewish homeland since around 1908. (deck slide 14; guide)",
+    "flag": null
+   },
+   {
+    "text": "The Trump comparison is asserted without evidence or detail.",
+    "flag": "general reasoning"
+   }
+  ],
+  "image": "/images/chapters/chapter-08.png",
+  "fallback": "/images/chapters/fallback-13.svg",
+  "alt": "Illustration: clock tower",
+  "video": null
+ },
+ {
+  "number": 9,
+  "title": "Third Temple, Antichrist and \"Greater Israel\"",
+  "times": [
+   "03:32–03:41",
+   "08:11–08:30",
+   "11:02–12:40"
+  ],
+  "summary": "The speaker claims \"these people\" will grow in power leading up to a Third Temple and the Antichrist, and that they demand to be treated as biblical Israelites with a \"right to Zion.\" He tells viewers to research \"Pax Judaica\" and \"Greater Israel,\" quotes Rabbi Fishman's UN testimony that the promised land runs from the river of Egypt to the Euphrates, including parts of Syria and Lebanon, and says some Muslim scholars call Israelis Edomites. He describes a plan (expand borders, weaken superpowers, impose Noahide laws, build the Third Temple, crown the Antichrist), says a meeting is planned \"later this year,\" and criticises \"Zionist Christians\" for \"serving Israel instead of Jesus Christ.\"",
+  "names": [
+   "Rabbi Fishman",
+   "the United Nations",
+   "Syria",
+   "Lebanon",
+   "the Euphrates",
+   "Muslim scholars (unnamed)",
+   "Zionist Christians",
+   "Jesus"
+  ],
+  "evidence": [
+   {
+    "text": "One rabbi did describe very large borders in 1947, and Israel's current prime minister has spoken of \"Greater Israel.\" Criticising a politician is fair, but that isn't a plan by all Jews. Noahide laws are a religious teaching with no means of enforcement. (deck slide 15; guide)",
+    "flag": null
+   },
+   {
+    "text": "Prophecy-based claims can't be checked. (deck slide 23; guide)",
+    "flag": null
+   },
+   {
+    "text": "Christian support for Israel grew from Christian preachers reading their own Bibles. (deck slide 11; guide)",
+    "flag": null
+   },
+   {
+    "text": "\"Pax Judaica,\" the Muslim scholars and the \"meeting later this year\" are not sourced.",
+    "flag": "unverified"
+   }
+  ],
+  "image": "/images/chapters/chapter-09.png",
+  "fallback": "/images/chapters/fallback-14.svg",
+  "alt": "Illustration: outline map",
+  "video": null
+ },
+ {
+  "number": 10,
+  "title": "Media, money and positions of power",
+  "times": [
+   "03:41–04:00",
+   "05:00–05:10"
+  ],
+  "summary": "The speaker claims the owners and CEOs of pornography, music, media and news companies include Jews in \"strategic positions\" meant for control. He says \"a rabbi owns\" a company (name censored in the captions) and urges viewers not to fear being called a Nazi.",
+  "names": [],
+  "evidence": [
+   {
+    "text": "Some executives are Jewish and most are not, and companies are owned by competing shareholders. The \"control\" idea traces to the Protocols of the Elders of Zion, exposed as a forgery in 1921. (deck slide 19; guide)",
+    "flag": null
+   }
+  ],
+  "image": "/images/chapters/chapter-10.png",
+  "fallback": "/images/chapters/fallback-18.svg",
+  "alt": "Illustration: newspaper page",
+  "video": null
+ },
+ {
+  "number": 11,
+  "title": "The Bolshevik Revolution and Holocaust education",
+  "times": [
+   "04:00–04:22",
+   "06:10–07:02"
+  ],
+  "summary": "The speaker claims Jews held strategic positions in the Bolshevik Revolution and persuaded Russians to act. He says at least 20 million and possibly 60 million died, mostly Christians, with thousands of Russian Orthodox martyrs. He says schools teach the Holocaust and \"to hate Germans\" but not this, and that children are taught from childhood to sympathise with Jews.",
+  "names": [
+   "the Bolsheviks",
+   "the Russian Orthodox Church",
+   "the Holocaust",
+   "Germans"
+  ],
+  "evidence": [
+   {
+    "text": "Some early Communist leaders had Jewish parents but had rejected Judaism, and the regime closed synagogues. Stalin, who was not Jewish, led the worst killings; tens of thousands of Jews were also murdered; the Nazis used the \"Jews are Communists\" story as propaganda. (deck slide 13; guide)",
+    "flag": null
+   },
+   {
+    "text": "States decide textbook content. (deck slide 16; guide)",
+    "flag": null
+   },
+   {
+    "text": "Death-toll estimates vary widely; no curriculum is cited.",
+    "flag": "general reasoning"
+   }
+  ],
+  "image": "/images/chapters/chapter-11.png",
+  "fallback": "/images/chapters/fallback-12.svg",
+  "alt": "Illustration: archive drawers",
+  "video": null
+ },
+ {
+  "number": 12,
+  "title": "Textbooks and Robert Maxwell",
+  "times": [
+   "04:11–05:00"
+  ],
+  "summary": "The speaker claims students didn't learn this \"because Jews own the textbooks.\" He says Robert Maxwell bought a publisher for about $2 billion and partnered with a major U.S. printer, was \"provably\" a Mossad asset, and was assassinated on his yacht when about to turn on them. He adds that education shapes people from childhood.",
+  "names": [
+   "Robert Maxwell",
+   "Mossad"
+  ],
+  "evidence": [
+   {
+    "text": "Maxwell bought a publisher in 1988, but his company collapsed after he died in 1991. Textbooks today come from investor-owned companies, with states deciding the content. (deck slide 16; guide)",
+    "flag": null
+   },
+   {
+    "text": "The asset and assassination claims are unsourced; the printer is not named.",
+    "flag": "unverified"
+   }
+  ],
+  "image": "/images/chapters/chapter-12.png",
+  "fallback": "/images/chapters/fallback-15.svg",
+  "alt": "Illustration: row of textbooks",
+  "video": null
+ },
+ {
+  "number": 13,
+  "title": "The ADL, the Leo Frank case and slavery in 1860",
+  "times": [
+   "05:10–05:25"
+  ],
+  "summary": "The speaker says he doesn't care what the ADL says and claims the ADL \"rescued a Jew from doing evil and blamed a black man.\" He also claims 40% of Jewish households owned slaves in 1860.",
+  "names": [
+   "the Anti-Defamation League",
+   "Leo Frank (named in the deck, not in the transcript)"
+  ],
+  "evidence": [
+   {
+    "text": "Frank was lynched by a mob in 1915 and later pardoned by Georgia. Most American Jews in 1860 lived in the North, where slavery was illegal, so the 40% figure can't be right. Southern Jews owned slaves at about the same rate as their white neighbours. (deck slide 12; guide)",
+    "flag": null
+   }
+  ],
+  "image": "/images/chapters/chapter-13.png",
+  "fallback": "/images/chapters/fallback-11.svg",
+  "alt": "Illustration: courthouse",
+  "video": null
+ },
+ {
+  "number": 14,
+  "title": "Talmud and Kabbalah quotations",
+  "times": [
+   "05:20–06:10"
+  ],
+  "summary": "The speaker holds up the Talmud and cites passages he says permit child sexual abuse (Sanhedrin \"504B,\" likely 54b; Niddah 44b), call Gentiles animals (Bava Metzia 114b), say Gentiles practise bestiality (Avodah Zarah 22b) and say not to lift a Gentile from a pit (Avodah Zarah 26b). He claims Kabbalah is kept secret and is \"even darker.\"",
+  "names": [
+   "the Talmud",
+   "Kabbalah"
+  ],
+  "evidence": [
+   {
+    "text": "The Talmud is thousands of pages of rabbinic debate. Quoted lines lack context, and other passages forbid fathers to marry off young daughters and require helping poor and sick non-Jews. (deck slide 8; guide)",
+    "flag": null
+   },
+   {
+    "text": "It records arguments, not a single rulebook. (Glossary)",
+    "flag": null
+   },
+   {
+    "text": "Kabbalah texts are published; the tractate references were transcribed as heard and not checked.",
+    "flag": "general reasoning / unverified"
+   }
+  ],
+  "image": "/images/chapters/chapter-14.png",
+  "fallback": "/images/chapters/fallback-07.svg",
+  "alt": "Illustration: open book",
+  "video": null
+ },
+ {
+  "number": 15,
+  "title": "\"Different gods\" and Freemasons",
+  "times": [
+   "07:02–07:41"
+  ],
+  "summary": "The speaker claims he and \"the Jew who isn't a Jew\" worship completely different gods. He claims Freemasons are Zionists who have infiltrated churches and government and teach pro-Zionist \"propaganda.\"",
+  "names": [
+   "Freemasons"
+  ],
+  "evidence": [
+   {
+    "text": "Freemasonry began in England in 1717 and is not Jewish. Christian support for Israel came from Christian preachers. (deck slide 11; guide)",
+    "flag": null
+   },
+   {
+    "text": "Shared roots in the Hebrew Bible versus theological differences is a matter of belief, not evidence.",
+    "flag": "general reasoning"
+   }
+  ],
+  "image": "/images/chapters/chapter-15.png",
+  "fallback": "/images/chapters/fallback-10.svg",
+  "alt": "Illustration: compass",
+  "video": null
+ },
+ {
+  "number": 16,
+  "title": "Birthright, DNA and \"Canaanite blood\"",
+  "times": [
+   "07:41–09:21"
+  ],
+  "summary": "The speaker claims Jews are false converts descended from Esau who want the \"birthright\" back. He quotes a \"Doctor Carreki\" saying there is no DNA from the biblical Israelites. He then claims studies show Ashkenazi Jews are \"Canaanite-blooded\" like ancient Edomites, quoting a Tel Aviv University review that most Jewish and Arabic-speaking populations share a strong genetic link to the ancient Canaanites.",
+  "names": [
+   "Esau",
+   "\"Doctor Carreki\" (unidentified)",
+   "Tel Aviv University",
+   "Ashkenazi Jews"
+  ],
+  "evidence": [
+   {
+    "text": "The same ancestry appears in Lebanese, Jordanians and Palestinians; ancient Israelites came largely from Canaanite peoples; no DNA test can label someone \"Edomite.\" (deck slide 18; guide)",
+    "flag": null
+   },
+   {
+    "text": "Lacking ancient Israelite DNA proves neither descent nor non-descent.",
+    "flag": "general reasoning"
+   },
+   {
+    "text": "Carreki and the review quote were not verified.",
+    "flag": "unverified"
+   }
+  ],
+  "image": "/images/chapters/chapter-16.png",
+  "fallback": "/images/chapters/fallback-17.svg",
+  "alt": "Illustration: dna double helix",
+  "video": null
+ },
+ {
+  "number": 17,
+  "title": "\"Fatness of the earth,\" the Rothschilds and wealth",
+  "times": [
+   "09:21–10:21"
+  ],
+  "summary": "The speaker claims Esau was promised wealth (\"the fatness of the earth\") and links this to Satan offering Jesus the world's kingdoms. He claims \"Rothschild\" means \"red shield\" in German but \"Shield of Edom\" in Hebrew. He also says 8 of the 20 wealthiest families are Jewish while Jews are 0.2% of the world's population, calling this fulfilled prophecy.",
+  "names": [
+   "Esau",
+   "Satan",
+   "Jesus",
+   "the Rothschild family",
+   "Ashkenazi Jews"
+  ],
+  "evidence": [
+   {
+    "text": "Jacob receives the same \"fatness of the earth\" blessing. (deck slide 4; guide)",
+    "flag": null
+   },
+   {
+    "text": "\"Rothschild\" means \"red shield,\" from a house sign. The 2025 richest-families list doesn't support 8 of 20, and one family says nothing about millions of people. (deck slide 10; guide)",
+    "flag": null
+   },
+   {
+    "text": "The 0.2% figure was not checked.",
+    "flag": "unverified"
+   }
+  ],
+  "image": "/images/chapters/chapter-17.png",
+  "fallback": "/images/chapters/fallback-09.svg",
+  "alt": "Illustration: red shield",
+  "video": null
+ },
+ {
+  "number": 18,
+  "title": "Epstein, the Rothschilds, Ghislaine Maxwell and the Nickelodeon logo",
+  "times": [
+   "10:21–11:02"
+  ],
+  "summary": "The speaker claims the Epstein files show Epstein represented the Rothschild family as a whole, notes that Ghislaine Maxwell (\"Kiss Lane\" in the captions), Epstein's partner, is Robert Maxwell's daughter, and says \"Epstein is who taught you in school.\" He claims the Nickelodeon logo is shaped like Epstein's island, Little St. James.",
+  "names": [
+   "Jeffrey Epstein",
+   "the Rothschild family",
+   "Ghislaine Maxwell",
+   "Robert Maxwell",
+   "Nickelodeon",
+   "Little St. James"
+  ],
+  "evidence": [
+   {
+    "text": "Ghislaine Maxwell is Robert Maxwell's daughter. Epstein got money from one bank linked to one Rothschild family member, not the family. (deck slide 21; guide)",
+    "flag": null
+   },
+   {
+    "text": "The logo is Nickelodeon's 1980s logo brought back. (deck slide 22; guide)",
+    "flag": null
+   }
+  ],
+  "image": "/images/chapters/chapter-18.png",
+  "fallback": "/images/chapters/fallback-20.svg",
+  "alt": "Illustration: balance scale",
+  "video": null
+ },
+ {
+  "number": 19,
+  "title": "Epstein's painting of the Massacre of the Innocents",
+  "times": [
+   "12:40–13:02"
+  ],
+  "summary": "The speaker claims Epstein commissioned a huge \"9 by 9\" painting of the Massacre of the Innocents (Matthew 2:16) for his Zorro Ranch, and that this shows he praised King Herod, whom he calls an Edomite \"just like Jeffrey Epstein.\"",
+  "names": [
+   "Jeffrey Epstein",
+   "King Herod",
+   "Zorro Ranch",
+   "Matthew 2:16"
+  ],
+  "evidence": [
+   {
+    "text": "Epstein bought a copy of a famous Christian painting made as a warning against cruelty. (deck slide 22; guide)",
+    "flag": null
+   },
+   {
+    "text": "The guide says \"bought a copy\"; the speaker says \"commissioned.\" Owning a painting is not praise of its subject.",
+    "flag": "general reasoning"
+   }
+  ],
+  "image": "/images/chapters/chapter-19.png",
+  "fallback": "/images/chapters/fallback-21.svg",
+  "alt": "Illustration: empty picture frame",
+  "video": null
+ },
+ {
+  "number": 20,
+  "title": "The \"dancing Israelis\" on 9/11",
+  "times": [
+   "13:02–13:20"
+  ],
+  "summary": "The speaker claims modern Jews celebrate tragedies. He says FBI files released through a Freedom of Information Act request show Israeli men celebrating and documenting the Twin Towers' destruction, and that they later admitted being Mossad agents.",
+  "names": [
+   "the FBI",
+   "Mossad"
+  ],
+  "evidence": [
+   {
+    "text": "Five Israeli men were seen filming and celebrating, but the FBI found no evidence of advance knowledge and they never admitted being spies. Five men don't represent 15 million people. (deck slide 17; guide)",
+    "flag": null
+   },
+   {
+    "text": "The transcript's \"Mossad agents in Gaza\" is unclear.",
+    "flag": "unclear"
+   }
+  ],
+  "image": "/images/chapters/chapter-20.png",
+  "fallback": "/images/chapters/fallback-16.svg",
+  "alt": "Illustration: two beams of light",
+  "video": null
+ }
 ]

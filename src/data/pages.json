@@ -1,0 +1,56 @@
+{
+ "intro": {
+  "slug": "intro",
+  "title": "Introduction: how the case is built",
+  "sections": [
+   {
+    "title": "How the opponent builds the case",
+    "plainLanguage": "The speaker's main idea is that today's Jews aren't \"real\" Jews but \"Edomites,\" descendants of Esau. This lets him attack Jewish people while claiming he isn't antisemitic. The slide shows how he strings many separate topics together into one story, and suggests asking him to name a single Jewish community he would accept as real. If he can't, \"Edomite\" is just a new word for \"Jew.\"",
+    "claim": "The speaker's central thesis is that modern Jews are not Israelites but Edomites/Idumeans, and that biblical language about Edom exposes a hidden identity.",
+    "sources": "He combines biblical verses, Josephus, wordplay, selected historical episodes, genetics, and modern scandals into one continuous story.",
+    "keyFacts": "A chain of individually checkable claims does not prove the links between them. Ask for evidence of continuity from ancient Edom to all modern Jewish communities.",
+    "sourceSlide": 2
+   },
+   {
+    "title": "The method: claim, source, leap",
+    "plainLanguage": "The speaker often starts with something true, like a real Bible verse or a real news story, and then jumps to a big conclusion that doesn't follow from it. This slide teaches a four-step check: Is the source real? What does it actually say? Does his conclusion follow? Does it really apply to all Jews?",
+    "claim": "Expect the opponent to present a real quotation or event, attach a sweeping interpretation, then treat the interpretation as proven.",
+    "sources": "The supplied transcript repeatedly moves from one person or event to an entire people, and from prophetic language to modern political conclusions.",
+    "keyFacts": "Separate four things: whether the source is authentic, what it says in context, whether the interpretation follows, and whether the conclusion is generalizable.",
+    "sourceSlide": 3
+   }
+  ],
+  "image": "/images/chapters/intro.png",
+  "fallback": "/images/chapters/fallback-01.svg",
+  "alt": "Illustration: linked chain",
+  "video": {
+   "url": "https://youtube.com/shorts/HCdFg5JEb2A"
+  }
+ },
+ "closing": {
+  "slug": "closing",
+  "title": "Closing: the recurring pattern, and separating evidence from prejudice",
+  "sections": [
+   {
+    "title": "The recurring pattern",
+    "plainLanguage": "This slide sums up the speaker's habits: calling Jews by a new name, linking unrelated facts, blaming millions for what a few did, and using prophecy that can never be checked. It also warns about the \"rapid fire\" trick: throwing out so many claims that no one can answer them all. The fix is to slow down and settle one claim at a time.",
+    "claim": "The opponent's narrative turns isolated facts into a unified hidden plot: redefine Jews as Edomites, quote scripture, cite scandal, and treat coincidence as confirmation.",
+    "sources": "The transcript repeatedly uses ancestry claims, wordplay, single-person examples, contested allegations, and prophetic predictions to bridge otherwise separate topics.",
+    "keyFacts": "Watch for unfalsifiable reasoning, shifting definitions, guilt by association, missing denominators, and a claim that every counterexample is part of the deception.",
+    "sourceSlide": 23
+   },
+   {
+    "title": "Closing: separate evidence from prejudice",
+    "plainLanguage": "The speaker isn't just criticizing one person or government. He is saying a whole people is secretly evil. The closing question asks: would he accept the same kind of reasoning if it were used to blame his own group? That fairness test shows the difference between evidence and prejudice.",
+    "claim": "The ultimate claim is not merely that a government or individual acted wrongly; it is that an entire people has a hidden, inherited evil identity.",
+    "sources": "The supplied transcript moves from ancient texts and historical individuals to sweeping claims about Jews today, including claims of secret control and Satanic allegiance.",
+    "keyFacts": "A defensible conclusion must follow from evidence and apply consistent standards. No source presented here establishes that modern Jews collectively are Edomites or servants of Satan.",
+    "sourceSlide": 25
+   }
+  ],
+  "image": "/images/chapters/closing.png",
+  "fallback": "/images/chapters/fallback-23.svg",
+  "alt": "Illustration: balance scale",
+  "video": null
+ }
+}
