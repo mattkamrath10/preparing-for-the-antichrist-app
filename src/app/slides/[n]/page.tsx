@@ -19,7 +19,7 @@ export default async function SlidePage({ params }: { params: Promise<{ n: strin
       <h1 className="text-2xl md:text-3xl font-serif text-[#e8d9b5] mb-4">{s.title}</h1>
       <figure className="mb-5">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={s.image.src} alt={s.image.alt} className="w-full max-h-72 object-cover rounded-xl" />
+        <img src={s.image.src} alt={s.image.alt} className="w-full max-h-72 object-contain bg-[#1e2a3a] rounded-xl" />
         <figcaption className="text-xs text-[#8a93a3] mt-1">{s.image.alt}. {s.image.credit}</figcaption>
       </figure>
       {s.likelyArgument && (
