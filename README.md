@@ -1,21 +1,23 @@
 # Preparing For The Antichrist App
 
 A companion app for the debate-prep deck **"Answering the Edomite Myth: The opponent's case, reconstructed and stress-tested."**
-It shows all 26 slides, a plain-language explanation of each, a glossary, the role-play practice sheet, and an optional per-slide debate chat.
+It presents the material as 23 neutral chapters (the claim, the sources cited, the key facts and a plain-language explanation), 27 transcript topics, a glossary, a chat at the end of every chapter and one main chat.
 
-> Adversarial debate prep. Antisemitic claims are presented for critical examination, not endorsement.
+> Antisemitic claims are presented for critical examination, not endorsement.
 
-All slide text comes word-for-word from `deck.pptx`; explanations and glossary from `plain-language-guide.pdf`; the practice page from `practice-sheet.pdf` (see `src/data/`).
-Slide images are original abstract illustrations (symbols only, no people), released CC0, in `public/images/`.
+Chapter text comes word-for-word from `deck.pptx` (slides 2-23 and 25) and `plain-language-guide.pdf` (see `src/data/`).
+
+## Images
+Save chapter images as `public/images/chapters/chapter-01.png` ... `chapter-23.png` and the main image as `public/images/hero.png` (16:9). Until a file exists the app shows the built-in illustration (`fallback-NN.svg`). Prompts are in `IMAGE-PROMPTS.md`. Commit and push to publish.
 
 ## What's inside
 | Page | Address |
 |---|---|
-| Deck overview | `/` |
-| Slide viewer ("The claim" beside "Evidence and response") | `/slides/1/` ... `/slides/26/` |
-| Per-slide debate chat | `/slides/<n>/chat/` |
+| Home / chapter list | `/` |
+| Chapters (chat at the end of each) | `/chapters/1/` ... `/chapters/23/` |
+| Main chat (all chapters) | `/chat/` |
+| Transcript topics | `/topics/` |
 | Glossary | `/glossary/` |
-| Practice (role-play sheet) | `/practice/` |
 | Community rules and terms | `/rules/` |
 
 Tech: Next.js 15 + TypeScript + Tailwind (static export), PWA (installable), Capacitor 7 for iOS/Android, Supabase (free tier) for chat.
@@ -38,9 +40,9 @@ Open http://localhost:3000. Without Supabase values, everything works except cha
 
 ## Supabase (chat) - free tier
 1. Go to https://supabase.com, sign in, **New project** (any name, free plan). Wait for it to start.
-2. **SQL Editor → New query**, paste all of `supabase/migrations/0001_chat.sql`, click **Run**.
+2. **SQL Editor → New query**, paste all of `supabase/migrations/0001_chat.sql`, click **Run**. Then do the same with `0002_rooms_usernames_anonymous.sql`.
 3. **Authentication → Sign In / Providers → Email**: keep it enabled (magic links are on by default).
-4. **Authentication → URL Configuration**: set **Site URL** to your Vercel address (e.g. `https://preparing-for-the-antichrist-app.vercel.app`) and add `http://localhost:3000/**` and `https://*.vercel.app/**` to **Redirect URLs**. For the phone apps also add `capacitor://localhost/**` and `http://localhost/**`.
+4. **Authentication → URL Configuration**: set **Site URL** to your Vercel address `https://preparing-for-the-antichrist-app.vercel.app` and add `https://preparing-for-the-antichrist-app.vercel.app/**`, `http://localhost:3000/**` and `https://*.vercel.app/**` to **Redirect URLs**. For the phone apps also add `capacitor://localhost/**` and `http://localhost/**`.
 5. **Project Settings → API**: copy the **Project URL** and the **anon public** key into `.env.local` and into Vercel (below).
 6. Make yourself a moderator: open the app, sign in once on any chat page and accept the rules, then run in SQL Editor:
    ```sql
@@ -48,7 +50,9 @@ Open http://localhost:3000. Without Supabase values, everything works except cha
    ```
    Admins see **Hide/Unhide** on every post. Reports are in the `reports` table (Table Editor). Ban a user with `update public.profiles set banned = true where id = '...';`
 
-Moderation built in (Apple guideline 1.2): rules + terms must be accepted before posting, hate-term filter (client and database), report, block user, admin hide, auto-hide after 3 reports.
+Members can set a unique username (filtered, editable) and tick **Post as Anonymous** per message; anonymous posts show "Anonymous" but report, block and moderator hide still work.
+
+Moderation built in (Apple guideline 1.2): rules + terms must be accepted before posting, hate-term filter (client and database), report, block author, admin hide, auto-hide after 3 reports.
 
 ## Vercel (website)
 The site is connected to Vercel. To add chat to the live site:
@@ -84,4 +88,4 @@ Open the live site in Chrome or Edge → click the install icon in the address b
 App Review note: the chat is user-generated content, so the app already has rules/terms acceptance, filtering, report, block and moderator hide. Give Apple a demo email in the review notes so they can sign in.
 
 ## Updating content
-Slide text is in `src/data/slides.json`, guide text in `src/data/guide.json`. Edit, then `git commit` and `git push`; Vercel redeploys automatically.
+Chapter text is in `src/data/chapters.json`, topics in `src/data/topics.json`, guide text in `src/data/guide.json`. Edit, then `git commit` and `git push`; Vercel redeploys automatically.
