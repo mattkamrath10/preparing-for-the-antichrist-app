@@ -1,0 +1,5 @@
+@import "tailwindcss";
+:root { color-scheme: dark; }
+body { background:#11161f; color:#e9e4d8; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; padding-bottom: env(safe-area-inset-bottom); }
+.card { background:#1a2230; border:1px solid #2c374a; border-radius:14px; padding:1rem 1.1rem; }
+.label { font-size:.72rem; letter-spacing:.12em; text-transform:uppercase; color:#c9b27c; font-weight:700; margin-bottom:.35rem; }

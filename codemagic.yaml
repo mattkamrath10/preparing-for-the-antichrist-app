@@ -1,0 +1,46 @@
+# Codemagic: builds the iOS app in the cloud (no Mac needed) and uploads it to App Store Connect / TestFlight.
+# Setup is in README.md -> "iOS with Codemagic".
+workflows:
+  ios-release:
+    name: iOS release (App Store Connect)
+    max_build_duration: 60
+    instance_type: mac_mini_m2
+    integrations:
+      app_store_connect: CodemagicASC   # name of the App Store Connect API key you add in Codemagic
+    environment:
+      groups:
+        - supabase                      # holds NEXT_PUBLIC_SUPABASE_URL and NEXT_PUBLIC_SUPABASE_ANON_KEY
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: com.matthewkamrath.preparingfortheantichrist
+      vars:
+        XCODE_WORKSPACE_OR_PROJECT: "ios/App/App.xcodeproj"
+        XCODE_SCHEME: "App"
+      node: 20
+      xcode: latest
+    scripts:
+      - name: Install dependencies
+        script: npm ci
+      - name: Build web app and sync to iOS
+        script: |
+          npm run build
+          npx cap sync ios
+      - name: Set up code signing
+        script: xcode-project use-profiles
+      - name: Set build number
+        script: |
+          cd ios/App
+          agvtool new-version -all $(($BUILD_NUMBER + 1))
+      - name: Build IPA
+        script: |
+          if [ -d ios/App/App.xcworkspace ]; then
+            xcode-project build-ipa --workspace ios/App/App.xcworkspace --scheme "$XCODE_SCHEME"
+          else
+            xcode-project build-ipa --project "$XCODE_WORKSPACE_OR_PROJECT" --scheme "$XCODE_SCHEME"
+          fi
+    artifacts:
+      - build/ios/ipa/*.ipa
+    publishing:
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true

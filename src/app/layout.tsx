@@ -1,0 +1,31 @@
+import type { Metadata, Viewport } from "next";
+import Link from "next/link";
+import "./globals.css";
+import SW from "@/components/SW";
+export const metadata: Metadata = {
+  title: "Preparing For The Antichrist App",
+  description: "Debate preparation companion: Answering the Edomite Myth.",
+  manifest: "/manifest.webmanifest",
+  icons: { icon: "/icon-192.png", apple: "/icon-192.png" },
+};
+export const viewport: Viewport = { themeColor: "#11161f", width: "device-width", initialScale: 1, viewportFit: "cover" };
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en">
+      <body>
+        <header className="border-b border-[#2c374a] sticky top-0 z-10 bg-[#11161f]/95 backdrop-blur" style={{ paddingTop: "env(safe-area-inset-top)" }}>
+          <nav className="max-w-6xl mx-auto px-4 py-3 flex flex-wrap gap-x-5 gap-y-2 items-center text-sm">
+            <Link href="/" className="font-semibold text-[#e8d9b5] mr-auto">Preparing For The Antichrist</Link>
+            <Link href="/">Deck</Link>
+            <Link href="/glossary/">Glossary</Link>
+            <Link href="/practice/">Practice</Link>
+            <Link href="/rules/">Community rules</Link>
+          </nav>
+        </header>
+        <main className="max-w-6xl mx-auto px-4 py-6">{children}</main>
+        <footer className="max-w-6xl mx-auto px-4 py-8 text-xs text-[#8a93a3]">Adversarial debate prep • Claims are not endorsements. Antisemitic claims are presented for critical examination, not endorsement.</footer>
+        <SW />
+      </body>
+    </html>
+  );
+}

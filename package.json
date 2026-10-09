@@ -1,0 +1,31 @@
+{
+  "name": "preparing-for-the-antichrist-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export:mobile": "next build && npx cap sync",
+    "cap:sync": "npx cap sync"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "next": "15.5.4",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/ios": "^7.0.0",
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "cross-env": "^7.0.3",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5"
+  }
+}

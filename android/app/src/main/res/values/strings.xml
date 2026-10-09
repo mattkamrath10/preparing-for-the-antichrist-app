@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Preparing For The Antichrist</string>
+    <string name="title_activity_main">Preparing For The Antichrist</string>
+    <string name="package_name">com.matthewkamrath.preparingfortheantichrist</string>
+    <string name="custom_url_scheme">com.matthewkamrath.preparingfortheantichrist</string>
+</resources>
