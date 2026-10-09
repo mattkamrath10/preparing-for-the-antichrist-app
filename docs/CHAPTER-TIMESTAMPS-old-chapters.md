@@ -4,7 +4,7 @@ Source: the attached SRT (about 13:51 long, apparently a looped clip). Times are
 
 | # | Chapter | Time range(s) | What is said |
 |---|---|---|---|
-| 1 | How the opponent builds the case | 00:41–00:50; 07:41–08:01 | Not one passage; the thesis runs through the clip. Main statements: "they're not the same thing… they're Edom"; today's "Jews" are false converts and Esau's descendants |
+| 1 | How the speaker builds the case | 00:41–00:50; 07:41–08:01 | Not one passage; the thesis runs through the clip. Main statements: "they're not the same thing… they're Edom"; today's "Jews" are false converts and Esau's descendants |
 | 2 | The method: claim, source, leap | General throughout | Framing only; no specific passage |
 | 3 | Jacob, Esau, and Edom | 00:20–00:41; 02:00–02:22; 08:20–08:51; 09:21–09:40; 13:40–13:51 | Edom "small and greatly despised" vs Europeans/Ashkenazi; "Jacob have I loved, Esau hated"; Esau linked to crucifixion; Ezekiel: Edom helped Babylon; Jacob/Esau womb struggle; Esau promised "fatness of the earth"; "small and greatly despised" repeated |
 | 4 | Idumeans and Herod | 00:41–01:50 | Herod an Edomite; Hyrcanus converted Idumeans; Antigonus's "half Jew" remark; Edomite Sanhedrin |

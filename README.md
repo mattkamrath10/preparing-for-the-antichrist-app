@@ -1,7 +1,7 @@
 # Preparing For The Antichrist App
 
-A companion app for the debate-prep deck **"Answering the Edomite Myth: The opponent's case, reconstructed and stress-tested."**
-It follows the opponent's video in order: an introduction, 20 chapters (where each theme is discussed in the transcript, what the speaker claims, key names, and evidence and counterpoints with general-reasoning and unverified flags), a closing page, a glossary, a chat at the end of every page and one main chat.
+A companion app for the debate-prep deck **"Answering the Edomite Myth: The speaker's case, reconstructed and stress-tested."**
+It follows the speaker's video in order: an introduction, 20 chapters (where each theme is discussed in the transcript, what the speaker claims, key names, and evidence and counterpoints with general-reasoning and unverified flags), a closing page, a glossary, a chat at the end of every page and one main chat.
 
 > Antisemitic claims are presented for critical examination, not endorsement.
 
