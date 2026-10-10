@@ -19,7 +19,7 @@ export default async function ChapterPage({ params }: { params: Promise<{ n: str
     <article className="space-y-4">
       <div><div className="label">Chapter {c.number} of {chapters.length}</div><h1 className="text-2xl md:text-3xl font-serif text-[#e8d9b5]">{c.title}</h1></div>
       {c.video ? <YouTube video={c.video} title={`Chapter ${c.number}: ${c.title} (video)`} /> : <FullVideo ranges={c.times} title={`Full video, chapter ${c.number}: ${c.title}`} />}
-      <Img src={c.image} fallback={c.fallback} alt={c.alt} className="w-full aspect-video max-h-96 object-cover bg-[#1e2a3a] rounded-xl" />
+      <Img slug={`chapter-${String(c.number).padStart(2, "0")}`} admin src={c.image} fallback={c.fallback} alt={c.alt} className="w-full aspect-video max-h-96 object-cover bg-[#1e2a3a] rounded-xl" />
       <section className="card"><div className="label">Where it&apos;s discussed</div><p>{c.times.map((t) => <span key={t} className="inline-block mr-2 mb-1 px-2 py-0.5 rounded bg-[#11161f] border border-[#2c374a] text-sm font-mono">{t}</span>)}</p></section>
       <section className="card"><div className="label">What the speaker says</div><p className="leading-relaxed">{c.summary}</p></section>
       {c.names.length > 0 && <section className="card"><div className="label">Key names</div><p>{c.names.join(" • ")}</p></section>}

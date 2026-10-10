@@ -10,7 +10,7 @@ export default function FramePage({ p, room, label, prev, next, credits }: { p: 
       <div><div className="label">{label}</div><h1 className="text-2xl md:text-3xl font-serif text-[#e8d9b5]">{p.title}</h1></div>
       {credits}
       {p.video ? <YouTube video={p.video} title={`${p.title} (video)`} /> : <FullVideo startLabel title={`Full video: ${p.title}`} />}
-      <Img src={p.image} fallback={p.fallback} alt={p.alt} className="w-full aspect-video max-h-96 object-cover bg-[#1e2a3a] rounded-xl" />
+      <Img slug={p.slug} admin src={p.image} fallback={p.fallback} alt={p.alt} className="w-full aspect-video max-h-96 object-cover bg-[#1e2a3a] rounded-xl" />
       {p.sections.map((s) => (
         <section key={s.title} className="card space-y-3">
           <h2 className="text-xl font-serif text-[#e8d9b5]">{s.title}</h2>
