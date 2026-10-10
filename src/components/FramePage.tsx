@@ -3,10 +3,11 @@ import type { FramePage as FP } from "@/lib/data";
 import Img from "@/components/Img";
 import YouTube from "@/components/YouTube";
 import Chat from "@/components/Chat";
-export default function FramePage({ p, room, label, prev, next }: { p: FP; room: string; label: string; prev?: { href: string; text: string }; next?: { href: string; text: string } }) {
+export default function FramePage({ p, room, label, prev, next, credits }: { p: FP; room: string; label: string; prev?: { href: string; text: string }; next?: { href: string; text: string }; credits?: React.ReactNode }) {
   return (
     <article className="space-y-4">
       <div><div className="label">{label}</div><h1 className="text-2xl md:text-3xl font-serif text-[#e8d9b5]">{p.title}</h1></div>
+      {credits}
       <YouTube video={p.video} title={`${p.title} (video)`} />
       <Img src={p.image} fallback={p.fallback} alt={p.alt} className="w-full aspect-video max-h-96 object-cover bg-[#1e2a3a] rounded-xl" />
       {p.sections.map((s) => (
