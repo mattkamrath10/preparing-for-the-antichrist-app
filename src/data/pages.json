@@ -23,9 +23,7 @@
   "image": "/images/chapters/intro.png",
   "fallback": "/images/chapters/fallback-01.svg",
   "alt": "Illustration: linked chain",
-  "video": {
-   "url": "https://youtube.com/shorts/HCdFg5JEb2A"
-  }
+  "video": null
  },
  "closing": {
   "slug": "closing",
