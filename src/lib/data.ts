@@ -3,7 +3,7 @@ import guideJson from "@/data/guide.json";
 import pagesJson from "@/data/pages.json";
 export type Video = { url: string; start?: number | string; short?: boolean } | null;
 export type Evidence = { text: string; flag: string | null };
-export type Chapter = { number: number; title: string; times: string[]; summary: string; names: string[]; evidence: Evidence[]; image: string; fallback: string; alt: string; video: Video };
+export type Chapter = { number: number; title: string; times: string[]; summary: string; names: string[]; evidence: Evidence[]; image: string; fallback: string; alt: string; video: Video; extraVideos?: { url: string; start?: number | string; short?: boolean }[] };
 export type FramePage = { slug: string; title: string; sections: { title: string; plainLanguage: string; claim: string; sources: string; keyFacts: string; sourceSlide: number }[]; image: string; fallback: string; alt: string; video: Video };
 export const chapters = chaptersJson as Chapter[];
 export const pages = pagesJson as unknown as { intro: FramePage; closing: FramePage };

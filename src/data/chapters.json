@@ -219,7 +219,12 @@
   "image": "/images/chapters/chapter-06.png",
   "fallback": "/images/chapters/fallback-19.svg",
   "alt": "Illustration: dove with olive branch",
-  "video": null
+  "video": null,
+  "extraVideos": [
+   {
+    "url": "https://youtube.com/shorts/gqaTSQ7MBzU"
+   }
+  ]
  },
  {
   "number": 7,
