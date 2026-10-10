@@ -158,7 +158,7 @@ An empty gilded picture frame on a gallery wall, with a museum bench in front of
 Two vertical beams of pale light rising into a night sky above a calm city waterfront, as a memorial. Style: quiet, painterly editorial illustration; muted palette of deep navy, warm parchment and soft gold; gentle directional light; calm, scholarly mood. Objects, places, documents and landscapes only. No identifiable people, no faces, no crowds, no ethnic or religious group shown as villains, no caricatures, no religious symbols used mockingly, no violence or gore. No text, letters, numbers or logos anywhere in the image. Aspect ratio 16:9, landscape.
 ```
 
-## Closing: the recurring pattern, and separating evidence from prejudice
+## Closing: weighing the evidence
 **Save as:** `public/images/chapters/closing.png`
 
 ```

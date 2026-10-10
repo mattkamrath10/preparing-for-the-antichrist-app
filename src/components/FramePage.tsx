@@ -15,9 +15,9 @@ export default function FramePage({ p, room, label, prev, next, credits }: { p: 
         <section key={s.title} className="card space-y-3">
           <h2 className="text-xl font-serif text-[#e8d9b5]">{s.title}</h2>
           <p>{s.plainLanguage}</p>
-          <div><div className="label">The argument</div><p>{s.claim}</p></div>
-          <div><div className="label">What it draws on</div><p>{s.sources}</p></div>
-          <div><div className="label">Key facts</div><p>{s.keyFacts}</p></div>
+          <div><div className="label">The speaker&apos;s argument</div><p>{s.claim}</p></div>
+          <div><div className="label">Sources he draws on</div><p>{s.sources}</p></div>
+          <div><div className="label">Other perspectives</div><p>{s.keyFacts}</p></div>
           <p className="text-xs text-[#8a93a3]">From deck slide {s.sourceSlide} and the plain-language guide.</p>
         </section>
       ))}

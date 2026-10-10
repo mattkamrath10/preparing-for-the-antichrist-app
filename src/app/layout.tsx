@@ -4,7 +4,7 @@ import "./globals.css";
 import SW from "@/components/SW";
 export const metadata: Metadata = {
   title: "Preparing For The Antichrist App",
-  description: "A plain-language guide: Answering the Edomite Myth.",
+  description: "A chapter-by-chapter guide to the Edom identity argument in the video, with other perspectives and sources.",
   manifest: "/manifest.webmanifest",
   icons: { icon: "/icon-192.png", apple: "/icon-192.png" },
 };
@@ -24,7 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </nav>
         </header>
         <main className="max-w-6xl mx-auto px-4 py-6">{children}</main>
-        <footer className="max-w-6xl mx-auto px-4 py-8 text-xs text-[#8a93a3]">Antisemitic claims are presented for critical examination, not endorsement.<br />Video and transcript: <a className="underline" href="https://www.instagram.com/richtidwell/" target="_blank" rel="noopener noreferrer">Rich Tidwell</a>. Shared by The Patriot Project.</footer>
+        <footer className="max-w-6xl mx-auto px-4 py-8 text-xs text-[#8a93a3]">Video and transcript: <a className="underline" href="https://www.instagram.com/richtidwell/" target="_blank" rel="noopener noreferrer">Rich Tidwell</a>. Shared by The Patriot Project.</footer>
         <SW />
       </body>
     </html>

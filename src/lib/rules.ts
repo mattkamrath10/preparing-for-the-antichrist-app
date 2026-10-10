@@ -1,6 +1,6 @@
 export const RULES = [
-  "Argue claims, not people. No slurs, harassment, threats, or hateful content about any religion, ethnicity, or group.",
-  "This chat exists to practise answering the slide's claims calmly and with sources. Quote the source you are relying on.",
+  "Discuss ideas, not people. No slurs, harassment, threats, or hateful content about any religion, ethnicity, or group.",
+  "This chat is for discussing each chapter's topic calmly and with sources. Quote the source you are relying on.",
   "Do not post personal information about anyone.",
   "No spam, advertising, or off-topic posts.",
   "Report posts that break these rules. Moderators may hide posts and remove accounts.",

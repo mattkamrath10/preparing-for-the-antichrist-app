@@ -7,4 +7,4 @@ export type Chapter = { number: number; title: string; times: string[]; summary:
 export type FramePage = { slug: string; title: string; sections: { title: string; plainLanguage: string; claim: string; sources: string; keyFacts: string; sourceSlide: number }[]; image: string; fallback: string; alt: string; video: Video };
 export const chapters = chaptersJson as Chapter[];
 export const pages = pagesJson as unknown as { intro: FramePage; closing: FramePage };
-export const guide = guideJson as { explanations: Record<string, string>; glossary: { term: string; definition: string; added?: string }[]; note: string };
+export const guide = guideJson as { glossary: { term: string; definition: string; added?: string }[]; note: string };

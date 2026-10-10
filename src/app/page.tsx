@@ -11,9 +11,8 @@ export default function Home() {
     <div>
       <section className="card mb-6">
         <Img src="/images/hero.png" fallback="/images/hero-fallback.svg" alt="App illustration" className="w-full max-h-80 object-contain bg-[#1e2a3a] rounded-xl mb-4" />
-        <h1 className="text-3xl md:text-4xl font-serif text-[#e8d9b5]">Answering the Edomite Myth</h1>
-        <p className="mt-2 text-[#c5c9d2]">The claims in the video, in the order the speaker makes them, with the sources he cites and the evidence and counterpoints for each.</p>
-        <p className="mt-2 text-sm text-[#c9b27c]">Antisemitic claims are presented for critical examination, not endorsement.</p>
+        <h1 className="text-3xl md:text-4xl font-serif text-[#e8d9b5]">The Edom identity argument, chapter by chapter</h1>
+        <p className="mt-2 text-[#c5c9d2]">What the speaker says in the video, in the order he says it, with the sources he cites and other perspectives and sources for each topic.</p>
         <div className="mt-4 flex gap-3 flex-wrap text-sm">
           <Link className="px-3 py-2 rounded bg-[#c9b27c] text-[#11161f] font-semibold" href="/intro/">Start with the introduction</Link>
           <Link className="px-3 py-2 rounded border border-[#c9b27c]" href="/chat/">Main chat</Link>

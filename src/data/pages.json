@@ -5,19 +5,19 @@
   "sections": [
    {
     "title": "How the speaker builds the case",
-    "plainLanguage": "The speaker's main idea is that most people known today as Jews are not descended from the ancient Israelites but from Edom, the nation that came from Esau. He supports this by connecting several separate topics, including Bible passages about Edom, Herod and the Idumeans, Josephus, genetics, and modern events, into one continuous argument. The chapters that follow take each of those topics in the order he raises them, show what he says, and set out the evidence and counterpoints so readers can weigh the case for themselves.",
-    "claim": "The speaker's central thesis is that modern Jews are not Israelites but Edomites/Idumeans, and that biblical language about Edom exposes a hidden identity.",
-    "sources": "He combines biblical verses, Josephus, wordplay, selected historical episodes, genetics, and modern scandals into one continuous story.",
-    "keyFacts": "A chain of individually checkable claims does not prove the links between them. Ask for evidence of continuity from ancient Edom to all modern Jewish communities.",
-    "sourceSlide": 2
+    "sourceSlide": 2,
+    "plainLanguage": "The speaker's main idea is that most people known today as Jews are not descended from the ancient Israelites but from Edom, the nation that came from Esau. He connects several topics, including Bible passages about Edom, Herod and the Idumeans, Josephus, genetics and modern events, into one continuous argument. The chapters that follow take each topic in the order he raises it, set out what he says, and list other perspectives and sources so readers can weigh the case for themselves.",
+    "claim": "The speaker argues that modern Jews are not Israelites but Edomites (Idumeans), and that biblical language about Edom points to this identity.",
+    "sources": "He draws on Bible verses, Josephus, the meanings of names, historical episodes, genetic studies and recent news stories.",
+    "keyFacts": "The deck notes that each link in the argument can be checked separately, and that the overall case depends on evidence of continuity from ancient Edom to present-day Jewish communities."
    },
    {
-    "title": "The method: claim, source, leap",
-    "plainLanguage": "The speaker often starts with something true, like a real Bible verse or a real news story, and then jumps to a big conclusion that doesn't follow from it. This slide teaches a four-step check: Is the source real? What does it actually say? Does his conclusion follow? Does it really apply to all Jews?",
-    "claim": "Expect the speaker to present a real quotation or event, attach a sweeping interpretation, then treat the interpretation as proven.",
-    "sources": "The supplied transcript repeatedly moves from one person or event to an entire people, and from prophetic language to modern political conclusions.",
-    "keyFacts": "Separate four things: whether the source is authentic, what it says in context, whether the interpretation follows, and whether the conclusion is generalizable.",
-    "sourceSlide": 3
+    "title": "Claim, source and conclusion",
+    "sourceSlide": 3,
+    "plainLanguage": "Many of the speaker's points start from a real source, such as a Bible verse, a passage from Josephus or a news story, and then draw a wider conclusion from it. A simple way to look at each point is to ask four questions: Is the source authentic? What does it say in context? Does the conclusion follow from it? Does it apply as widely as the speaker says?",
+    "claim": "The speaker presents quotations and events and then draws broad conclusions from them about a whole people and about present-day politics.",
+    "sources": "The transcript moves between individual people or events and statements about a whole group, and between prophetic language and modern political conclusions.",
+    "keyFacts": "The deck suggests looking at four things separately: whether the source is authentic, what it says in context, whether the conclusion follows from it, and how widely it applies."
    }
   ],
   "image": "/images/chapters/intro.png",
@@ -27,23 +27,23 @@
  },
  "closing": {
   "slug": "closing",
-  "title": "Closing: the recurring pattern, and separating evidence from prejudice",
+  "title": "Closing: weighing the evidence",
   "sections": [
    {
-    "title": "The recurring pattern",
-    "plainLanguage": "This slide sums up the speaker's habits: calling Jews by a new name, linking unrelated facts, blaming millions for what a few did, and using prophecy that can never be checked. It also warns about the \"rapid fire\" trick: throwing out so many claims that no one can answer them all. The fix is to slow down and settle one claim at a time.",
-    "claim": "The speaker's narrative turns isolated facts into a unified hidden plot: redefine Jews as Edomites, quote scripture, cite scandal, and treat coincidence as confirmation.",
-    "sources": "The transcript repeatedly uses ancestry claims, wordplay, single-person examples, contested allegations, and prophetic predictions to bridge otherwise separate topics.",
-    "keyFacts": "Watch for unfalsifiable reasoning, shifting definitions, guilt by association, missing denominators, and a claim that every counterexample is part of the deception.",
-    "sourceSlide": 23
+    "title": "Recurring themes",
+    "sourceSlide": 23,
+    "plainLanguage": "Across the video, the speaker returns to a few themes: identifying present-day Jews as Edomites, connecting events from different times and places, drawing conclusions about a group from the actions of individuals, and reading current events through prophecy. He also covers many topics quickly, so it can help to take them one at a time.",
+    "claim": "The speaker connects ancestry, scripture, historical figures, recent news and prophecy into one account of a hidden identity and purpose.",
+    "sources": "The transcript uses ancestry claims, the meanings of names, examples of individual people, contested allegations and prophetic readings to link separate topics.",
+    "keyFacts": "The deck suggests stating each claim in one testable sentence and asking what evidence would change it, and notes that several of the claims rest on prophecy, which is difficult to test."
    },
    {
-    "title": "Closing: separate evidence from prejudice",
-    "plainLanguage": "The speaker isn't just criticizing one person or government. He is saying a whole people is secretly evil. The closing question asks: would he accept the same kind of reasoning if it were used to blame his own group? That fairness test shows the difference between evidence and prejudice.",
-    "claim": "The ultimate claim is not merely that a government or individual acted wrongly; it is that an entire people has a hidden, inherited evil identity.",
-    "sources": "The supplied transcript moves from ancient texts and historical individuals to sweeping claims about Jews today, including claims of secret control and Satanic allegiance.",
-    "keyFacts": "A defensible conclusion must follow from evidence and apply consistent standards. No source presented here establishes that modern Jews collectively are Edomites or servants of Satan.",
-    "sourceSlide": 25
+    "title": "Weighing the evidence",
+    "sourceSlide": 25,
+    "plainLanguage": "The speaker's overall conclusion concerns a whole people, not only a government or particular individuals. The deck's closing suggestion is to apply the same standard of evidence to every group: to ask whether the same kind of reasoning would be accepted if it were applied to one's own religious or ethnic group.",
+    "claim": "The speaker's overall conclusion is that a whole people has a hidden, inherited identity, rather than only that particular governments or individuals acted wrongly.",
+    "sources": "The transcript moves from ancient texts and historical individuals to statements about Jews today, including about control and allegiance to Satan.",
+    "keyFacts": "The deck notes that a conclusion is strongest when it follows from the evidence and applies a consistent standard, and that it did not find a source establishing that modern Jews collectively are Edomites."
    }
   ],
   "image": "/images/chapters/closing.png",
