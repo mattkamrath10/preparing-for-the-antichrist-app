@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { FramePage as FP } from "@/lib/data";
 import Img from "@/components/Img";
 import YouTube from "@/components/YouTube";
+import PageVideos from "@/components/PageVideos";
 import FullVideo from "@/components/FullVideo";
 import Chat from "@/components/Chat";
 export default function FramePage({ p, room, label, prev, next, credits }: { p: FP; room: string; label: string; prev?: { href: string; text: string }; next?: { href: string; text: string }; credits?: React.ReactNode }) {
@@ -10,6 +11,8 @@ export default function FramePage({ p, room, label, prev, next, credits }: { p: 
       <div><div className="label">{label}</div><h1 className="text-2xl md:text-3xl font-serif text-[#e8d9b5]">{p.title}</h1></div>
       {credits}
       {p.video ? <YouTube video={p.video} title={`${p.title} (video)`} /> : <FullVideo startLabel title={`Full video: ${p.title}`} />}
+      {p.extraVideos?.map((v, i) => <YouTube key={v.url} video={v} title={`${p.title}: extra video ${i + 1}`} />)}
+      <PageVideos slug={p.slug} label={p.title} />
       <Img slug={p.slug} admin src={p.image} fallback={p.fallback} alt={p.alt} className="w-full aspect-video max-h-96 object-cover bg-[#1e2a3a] rounded-xl" />
       {p.sections.map((s) => (
         <section key={s.title} className="card space-y-3">
