@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import AccountNav from "@/components/AccountNav";
 import Link from "next/link";
 import "./globals.css";
 import SW from "@/components/SW";
@@ -21,6 +22,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <Link href="/glossary/">Glossary</Link>
             <Link href="/chat/">Main chat</Link>
             <Link href="/rules/">Rules</Link>
+            <AccountNav />
           </nav>
         </header>
         <main className="max-w-6xl mx-auto px-4 py-6">{children}</main>

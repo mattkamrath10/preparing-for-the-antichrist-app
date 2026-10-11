@@ -5,8 +5,9 @@ import type { RealtimeChannel, Session } from "@supabase/supabase-js";
 import { getSupabase, supabaseConfigured } from "@/lib/supabase";
 import { containsHateTerm } from "@/lib/filter";
 import { RULES } from "@/lib/rules";
+import Avatar from "./Avatar";
 
-type Post = { id: string; room: string; body: string; anonymous: boolean; hidden: boolean; created_at: string; author: string; is_mine: boolean; author_blocked: boolean };
+type Post = { id: string; room: string; body: string; anonymous: boolean; hidden: boolean; created_at: string; author: string; is_mine: boolean; author_blocked: boolean; author_avatar?: string | null };
 const TERMS_VERSION = 1;
 const USERNAME_RE = /^[A-Za-z0-9_]{3,20}$/;
 
@@ -19,7 +20,6 @@ export default function Chat({ room }: { room: string }) {
   const [username, setUsername] = useState<string | null>(null);
   const [editName, setEditName] = useState("");
   const [editing, setEditing] = useState(false);
-  const [email, setEmail] = useState("");
   const [text, setText] = useState("");
   const [anon, setAnon] = useState(false);
   const [msg, setMsg] = useState("");
@@ -65,11 +65,6 @@ export default function Chat({ room }: { room: string }) {
   const ping = () => chan.current?.send({ type: "broadcast", event: "changed", payload: {} });
   const uid = session?.user.id;
 
-  async function signIn(e: React.FormEvent) {
-    e.preventDefault();
-    const { error } = await sb!.auth.signInWithOtp({ email, options: { emailRedirectTo: window.location.href } });
-    setMsg(error ? error.message : "Check your email for a sign-in link.");
-  }
   function validName(n: string) {
     if (!USERNAME_RE.test(n)) { setMsg("Usernames are 3-20 letters, numbers or underscores."); return false; }
     if (containsHateTerm(n) || ["anonymous", "admin", "moderator"].includes(n.toLowerCase())) { setMsg("That username is not allowed."); return false; }
@@ -120,7 +115,7 @@ export default function Chat({ room }: { room: string }) {
         {visible.length === 0 && <li className="text-[#8a93a3]">No messages yet.</li>}
         {visible.map((p) => (
           <li key={p.id} className={`card ${p.hidden ? "opacity-50" : ""}`}>
-            <div className="text-xs text-[#8a93a3]">{p.author}{p.is_mine && p.anonymous && " (you)"} • {new Date(p.created_at).toLocaleString()}{p.hidden && " • hidden by moderator"}</div>
+            <div className="text-xs text-[#8a93a3] flex items-center gap-2">{p.anonymous ? <Avatar size={22} /> : <Avatar url={p.author_avatar} name={p.author} size={22} />}<span>{p.author}{p.is_mine && p.anonymous && " (you)"} • {new Date(p.created_at).toLocaleString()}{p.hidden && " • hidden by moderator"}</span></div>
             <p className="mt-1 whitespace-pre-wrap">{p.body}</p>
             {session && (
               <div className="mt-2 flex gap-3 text-xs">
@@ -132,12 +127,11 @@ export default function Chat({ room }: { room: string }) {
         ))}
       </ul>
       {!session ? (
-        <form onSubmit={signIn} className="card space-y-2">
+        <div className="card space-y-2">
           <div className="label">Sign in to join the chat</div>
-          <p className="text-sm">We email you a one-time sign-in link. No password needed.</p>
-          <input type="email" required value={email} onChange={(e) => setEmail(e.target.value)} placeholder="you@example.com" className="w-full rounded bg-[#11161f] border border-[#2c374a] p-2" />
-          <button className="px-3 py-2 rounded bg-[#c9b27c] text-[#11161f] font-semibold">Email me a link</button>
-        </form>
+          <p className="text-sm">Create a free account or sign in on the account page, then come back here.</p>
+          <Link href="/account/" className="inline-block px-3 py-2 rounded bg-[#c9b27c] text-[#11161f] font-semibold">Sign in or create an account</Link>
+        </div>
       ) : !accepted ? (
         <div className="card space-y-2">
           <div className="label">Community rules (required)</div>

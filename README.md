@@ -92,3 +92,9 @@ App Review note: the chat is user-generated content, so the app already has rule
 
 ## Updating content
 Chapter text is in `src/data/chapters.json`, intro and closing in `src/data/pages.json`, guide text in `src/data/guide.json`. Edit, then `git commit` and `git push`; Vercel redeploys automatically.
+
+## Accounts and profile pictures (migration 0004)
+1. Supabase → SQL Editor → run `supabase/migrations/0004_accounts_avatars.sql` (safe to re-run).
+2. Supabase → Authentication → Providers → Email: make sure Email (password sign-in) is enabled. Optionally turn off "Confirm email" for easier sign-ups.
+3. Authentication → URL Configuration: the redirect `https://antichristprep.com/**` already covers `/account/`.
+Members sign up or sign in at `/account/`, upload a picture (JPG/PNG/WebP, 2 MB max), and edit their username. Anonymous posts never show a picture.
