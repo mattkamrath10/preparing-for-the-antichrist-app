@@ -5,6 +5,7 @@ import type { Session } from "@supabase/supabase-js";
 import { getSupabase, supabaseConfigured } from "@/lib/supabase";
 import { containsHateTerm } from "@/lib/filter";
 import Avatar from "./Avatar";
+import MySuggestions from "./MySuggestions";
 
 const TERMS_VERSION = 1;
 const USERNAME_RE = /^[A-Za-z0-9_]{3,20}$/;
@@ -228,6 +229,7 @@ export default function Account() {
             <button className={btn} disabled={busy} onClick={accept}>I agree to the rules and terms</button></>
         )}
       </div>
+      <MySuggestions uid={uid} />
       <button className="underline text-sm" onClick={() => sb!.auth.signOut()}>Sign out</button>
       {msg && <p className="text-sm text-[#c9b27c]">{msg}</p>}
     </div>

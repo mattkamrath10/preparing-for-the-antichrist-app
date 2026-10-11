@@ -7,15 +7,15 @@ import Avatar from "./Avatar";
 export default function AccountNav() {
   const sb = getSupabase();
   const [uid, setUid] = useState<string | null>(null);
-  const [p, setP] = useState<{ username: string | null; avatar_url: string | null } | null>(null);
+  const [p, setP] = useState<{ username: string | null; avatar_url: string | null; is_admin?: boolean } | null>(null);
   useEffect(() => {
     if (!sb) return;
     const loadP = (id: string | null) => {
       setUid(id);
       if (!id) { setP(null); return; }
-      sb.from("profiles").select("username, avatar_url").eq("id", id).maybeSingle().then(({ data, error }) => {
-        if (error) sb.from("profiles").select("username").eq("id", id).maybeSingle().then(({ data: d }) => setP({ username: d?.username ?? null, avatar_url: null }));
-        else setP({ username: data?.username ?? null, avatar_url: data?.avatar_url ?? null });
+      sb.from("profiles").select("username, avatar_url, is_admin").eq("id", id).maybeSingle().then(({ data, error }) => {
+        if (error) sb.from("profiles").select("username, is_admin").eq("id", id).maybeSingle().then(({ data: d }) => setP({ username: d?.username ?? null, avatar_url: null, is_admin: Boolean(d?.is_admin) }));
+        else setP({ username: data?.username ?? null, avatar_url: data?.avatar_url ?? null, is_admin: Boolean(data?.is_admin) });
       });
     };
     sb.auth.getSession().then(({ data }) => loadP(data.session?.user.id ?? null));
@@ -25,5 +25,5 @@ export default function AccountNav() {
     return () => { sub.subscription.unsubscribe(); window.removeEventListener("profile-updated", onUpd); };
   }, [sb]);
   if (!uid) return <Link href="/account/">Account</Link>;
-  return <Link href="/account/" aria-label="Your account" title="Your account"><Avatar url={p?.avatar_url} name={p?.username} size={28} /></Link>;
+  return <>{p?.is_admin && <Link href="/admin/">Admin</Link>}<Link href="/account/" aria-label="Your account" title="Your account"><Avatar url={p?.avatar_url} name={p?.username} size={28} /></Link></>;
 }
